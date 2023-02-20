@@ -1,0 +1,22 @@
+09-09 18:36:30: - Logging - 
+Matchup found for New York Jets {"matchupInfo":{"home_team":"New York Jets","away_team":"Baltimore Ravens","home_teamOdds":-295,"away_teamOdds":240,"matchupId":2579,"startTime":"11170","fulStartTime":"DAY: 11 HOUR: 17 MINUTE: 0"}}
+09-10 00:04:52: - Logging - 
+Matchup found for New York Jets {"matchupInfo":{"home_team":"New York Jets","away_team":"Baltimore Ravens","home_teamOdds":-310,"away_teamOdds":250,"matchupId":1133,"startTime":"1110","fulStartTime":"DAY: 11 HOUR: 1 MINUTE: 0","dayNum":11,"hour":1,"minute":0}}
+09-10 00:08:24: - Logging - 
+Matchup found for New York Jets {"matchupInfo":{"home_team":"New York Jets","away_team":"Baltimore Ravens","home_teamOdds":-310,"away_teamOdds":250,"matchupId":1133,"startTime":"1110","fulStartTime":"DAY: 11 HOUR: 1 MINUTE: 0","dayNum":11,"hour":1,"minute":0}}
+09-10 00:10:07: - Logging - 
+Matchup found for New York Jets {"matchupInfo":{"home_team":"New York Jets","away_team":"Baltimore Ravens","home_teamOdds":-310,"away_teamOdds":250,"matchupId":1133,"startTime":"1110","fulStartTime":"DAY: 11 HOUR: 1 MINUTE: 0","dayNum":11,"hour":1,"minute":0}}
+09-10 00:11:31: - Logging - 
+Matchup found for New York Jets {"matchupInfo":{"home_team":"New York Jets","away_team":"Baltimore Ravens","home_teamOdds":-310,"away_teamOdds":250,"matchupId":1133,"startTime":"1110","fulStartTime":"DAY: 11 HOUR: 1 MINUTE: 0","dayNum":11,"hour":1,"minute":0}}
+10-19 18:51:04: --------    -------- 
+Matchup found for San Antonio Spurs
+--------    -------- {"matchupInfo":{"home_team":"San Antonio Spurs","away_team":"Charlotte Hornets","home_teamOdds":-108,"away_teamOdds":-110,"matchupId":5337,"startTime":"192010","fullStartTime":"DAY: 19 HOUR: 20 MINUTE: 10","dateView":"10/19/2022","dayNum":19,"dayOfWeek":19,"hour":20,"minute":10,"gameDayName":"Wed","cronStartTime":"10 20 19 10 3"}}
+10-19 18:52:17: --------    -------- 
+Matchup found for San Antonio Spurs
+--------    -------- {"matchupInfo":{"home_team":"San Antonio Spurs","away_team":"Charlotte Hornets","home_teamOdds":-108,"away_teamOdds":-110,"matchupId":5337,"startTime":"192010","fullStartTime":"DAY: 19 HOUR: 20 MINUTE: 10","dateView":"10/19/2022","dayNum":19,"dayOfWeek":19,"hour":20,"minute":10,"gameDayName":"Wed","cronStartTime":"10 20 19 10 3"}}
+10-20 13:07:12: --------    -------- 
+Matchup found for Milwaukee Bucks
+--------    -------- {"matchupInfo":{"home_team":"Philadelphia 76ers","away_team":"Milwaukee Bucks","home_teamOdds":148,"away_teamOdds":-176,"matchupId":7046,"startTime":"201930","fullStartTime":"DAY: 20 HOUR: 19 MINUTE: 30","dateView":"10/20/2022","dayNum":20,"dayOfWeek":20,"hour":19,"minute":30,"gameDayName":"Thu","cronStartTime":"30 19 20 10 4","legibleStartTime":"Thur, 7:30 PM"}}
+10-20 13:08:52: --------    -------- 
+Matchup found for Milwaukee Bucks
+--------    -------- {"matchupInfo":{"home_team":"Philadelphia 76ers","away_team":"Milwaukee Bucks","home_teamOdds":148,"away_teamOdds":-176,"matchupId":7046,"startTime":"201930","fullStartTime":"DAY: 20 HOUR: 19 MINUTE: 30","dateView":"10/20/2022","dayNum":20,"dayOfWeek":20,"hour":19,"minute":30,"gameDayName":"Thu","cronStartTime":"30 19 20 10 4","legibleStartTime":"Thur, 7:30 PM"}}

@@ -1,0 +1,204 @@
+10-14 19:26:47: - Logging - 
+Creating Game Channel | Title: test vs test2
+10-14 19:26:48: - Logging - 
+Game Channel Created: test vs test2
+10-14 19:27:38: - Logging - 
+Creating Game Channel | Title: test vs test2
+10-14 19:27:38: - Logging - 
+Game Channel Created: test vs test2
+10-14 19:48:15: - Logging - 
+Creating Game Channel | Title: test vs test2
+10-14 19:48:16: - Logging - 
+Game Channel Created: test vs test2
+10-14 21:33:00: - Logging - 
+Creating Game Channel | Title: test1 vs test2
+10-14 21:33:00: - Logging - 
+Game Channel Created: test1 vs test2
+10-14 21:37:00: - Logging - 
+Creating Game Channel | Title: test1 vs test2
+10-14 21:37:01: - Logging - 
+Game Channel Created: test1 vs test2
+10-14 21:44:01: - Logging - 
+Creating Game Channel | Title: test1 vs test2
+10-14 21:44:02: - Logging - 
+Game Channel Created: test1 vs test2
+10-19 19:10:02: --------    -------- 
+Creating Game Channel | Title: Indiana Pacers vs Washington Wizards
+--------    --------
+10-19 19:10:02: --------    -------- 
+Creating Game Channel | Title: Detroit Pistons vs Orlando Magic
+--------    --------
+10-19 19:10:03: --------    -------- 
+Game Channel Created: Indiana Pacers vs Washington Wizards
+--------    --------
+10-19 19:10:03: --------    -------- 
+Game Channel Created: Detroit Pistons vs Orlando Magic
+--------    --------
+10-22 17:00:03: --------    -------- 
+Creating Game Channel | Title: 76ers vs Spurs
+--------    --------
+10-22 17:00:06: --------    -------- 
+Game Channel Created: 76ers vs Spurs
+--------    --------
+10-22 19:00:03: --------    -------- 
+Creating Game Channel | Title: Heat vs Raptors
+--------    --------
+10-22 19:00:03: --------    -------- 
+Creating Game Channel | Title: Bucks vs Rockets
+--------    --------
+10-22 19:00:04: --------    -------- 
+Creating Game Channel | Title: Bulls vs Cavaliers
+--------    --------
+10-22 19:00:05: --------    -------- 
+Game Channel Created: Heat vs Raptors
+--------    --------
+10-22 19:00:05: --------    -------- 
+Game Channel Created: Bucks vs Rockets
+--------    --------
+10-22 19:00:05: --------    -------- 
+Game Channel Created: Bulls vs Cavaliers
+--------    --------
+10-22 19:09:13: --------    -------- 
+Creating Game Channel | Title: 76ers vs spurs
+--------    --------
+10-22 19:09:13: --------    -------- 
+Game Channel Created: 76ers vs spurs
+--------    --------
+11-12 16:10:01: --------    -------- 
+Creating Game Channel | Title: Nets vs Clippers
+--------    --------
+11-12 16:10:02: --------    -------- 
+Game Channel Created: Nets vs Clippers
+--------    --------
+11-27 16:52:18: --------    -------- 
+Creating Game Channel | Title: test at test2
+--------    --------
+11-27 16:52:19: --------    -------- 
+Game Channel Created: test at test2
+--------    --------
+11-27 17:11:11: --------    -------- 
+Creating Game Channel | Title: test at test2
+--------    --------
+11-27 17:11:12: --------    -------- 
+Game Channel Created: test at test2
+--------    --------
+11-27 17:11:39: --------    -------- 
+Creating Game Channel | Title: test at test2
+--------    --------
+11-27 17:11:40: --------    -------- 
+Game Channel Created: test at test2
+--------    --------
+11-27 17:13:54: --------    -------- 
+Creating Game Channel | Title: test at test2
+--------    --------
+11-27 17:13:55: --------    -------- 
+Game Channel Created: test at test2
+--------    --------
+12-03 17:53:27: --------    -------- 
+Creating Game Channel | Title: warriors at nets
+--------    --------
+12-03 17:53:28: --------    -------- 
+Game Channel Created: warriors at nets
+--------    --------
+12-03 17:54:27: --------    -------- 
+Creating Game Channel | Title: warriors at nets
+--------    --------
+12-03 17:54:28: --------    -------- 
+Game Channel Created: warriors at nets
+--------    --------
+12-03 18:02:11: --------    -------- 
+Creating Game Channel | Title: patriots at ravens
+--------    --------
+12-03 18:02:12: --------    -------- 
+Error Creating Game Channel: TypeError [COLOR_CONVERT]: Unable to convert color to a number.
+--------    --------
+12-03 18:02:42: --------    -------- 
+Creating Game Channel | Title: patriots at ravens
+--------    --------
+12-03 18:02:43: --------    -------- 
+Error Creating Game Channel: TypeError [COLOR_CONVERT]: Unable to convert color to a number.
+--------    --------
+12-03 18:03:16: --------    -------- 
+Creating Game Channel | Title: patriots at ravens
+--------    --------
+12-03 18:03:17: --------    -------- 
+Game Channel Created: patriots at ravens
+--------    --------
+12-03 18:04:12: --------    -------- 
+Creating Game Channel | Title: patriots at ravens
+--------    --------
+12-03 18:04:13: --------    -------- 
+Game Channel Created: patriots at ravens
+--------    --------
+12-03 18:05:25: --------    -------- 
+Creating Game Channel | Title: patriots at ravens
+--------    --------
+12-03 18:05:26: --------    -------- 
+Game Channel Created: patriots at ravens
+--------    --------
+12-03 18:12:43: --------    -------- 
+Creating Game Channel | Title: warriors vs bucks
+--------    --------
+12-03 18:12:44: --------    -------- 
+Game Channel Created: warriors vs bucks
+--------    --------
+12-03 18:13:19: --------    -------- 
+Creating Game Channel | Title: kings vs clippers
+--------    --------
+12-03 18:13:20: --------    -------- 
+Game Channel Created: kings vs clippers
+--------    --------
+12-04 15:40:02: --------    -------- 
+Creating Game Channel | Title: Nuggets vs Pelicans
+--------    --------
+12-04 15:40:04: --------    -------- 
+Game Channel Created: Nuggets vs Pelicans
+--------    --------
+12-05 19:10:00: --------    -------- 
+Creating Game Channel | Title: Bucks vs Magic
+--------    --------
+12-05 19:10:01: --------    -------- 
+Creating Game Channel | Title: Clippers vs Hornets
+--------    --------
+12-05 19:10:02: --------    -------- 
+Game Channel Created: Bucks vs Magic
+--------    --------
+12-05 19:10:03: --------    -------- 
+Game Channel Created: Clippers vs Hornets
+--------    --------
+12-06 19:30:03: --------    -------- 
+Creating Game Channel | Title: Lakers vs Cavaliers
+--------    --------
+12-06 19:30:06: --------    -------- 
+Game Channel Created: Lakers vs Cavaliers
+--------    --------
+12-06 19:40:02: --------    -------- 
+Creating Game Channel | Title: Pistons vs Heat
+--------    --------
+12-06 19:40:04: --------    -------- 
+Game Channel Created: Pistons vs Heat
+--------    --------
+12-06 22:00:01: --------    -------- 
+Creating Game Channel | Title: Mavericks vs Nuggets
+--------    --------
+12-06 22:00:05: --------    -------- 
+Game Channel Created: Mavericks vs Nuggets
+--------    --------
+01-16 14:10:00: --------    -------- 
+Creating Game Channel | Title: Pelicans vs Cavaliers
+--------    --------
+01-16 14:10:00: --------    -------- 
+Creating Game Channel | Title: Warriors vs Wizards
+--------    --------
+01-16 14:10:00: --------    -------- 
+Creating Game Channel | Title: Raptors vs Knicks
+--------    --------
+01-16 14:10:02: --------    -------- 
+Game Channel Created: Pelicans vs Cavaliers
+--------    --------
+01-16 14:10:02: --------    -------- 
+Game Channel Created: Warriors vs Wizards
+--------    --------
+01-16 14:10:02: --------    -------- 
+Game Channel Created: Raptors vs Knicks
+--------    --------

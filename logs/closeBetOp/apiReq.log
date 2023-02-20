@@ -1,0 +1,138 @@
+11-03 23:20:00: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:20:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:00: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-03 23:25:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 21:57:45: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 21:59:51: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:19:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:19:30: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:20:27: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:20:54: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:26:17: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:31:37: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-05 22:32:59: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-12 16:00:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-12 16:05:01: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+11-12 16:10:00: --------    -------- 
+[checkCompleted.js] API Connection Information:
+--------    --------
+{"level":"info","message":"testcmd.js API Connection Information:","timestamp":"11-24 22:42:34"}
+{"level":"info","message":"testcmd.js API Connection Information:","timestamp":"11-24 22:42:41"}
+{"level":"info","message":"testcmd.js API Connection Information:","timestamp":"11-24 22:43:57"}
+{"level":"info","message":"[checkCompleted.js] API Connection Information:","timestamp":"11-24 23:34:42"}
+{"level":"info","message":"[\n\t{\n\t\tid: 'febaaec689e0d22db53cb8eec2177048',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-24T17:34:53Z',\n\t\tcompleted: true,\n\t\thome_team: 'Detroit Lions',\n\t\taway_team: 'Buffalo Bills',\n\t\tscores: [\n\t\t\t{\n\t\t\t\tname: 'Detroit Lions',\n\t\t\t\tscore: '25'\n\t\t\t},\n\t\t\t{\n\t\t\t\tname: 'Buffalo Bills',\n\t\t\t\tscore: '28'\n\t\t\t}\n\t\t],\n\t\tlast_update: '2022-11-25T04:34:40Z'\n\t},\n\t{\n\t\tid: '7105b806f4de825d7ed04c2a88ea7dc1',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-24T21:35:38Z',\n\t\tcompleted: true,\n\t\thome_team: 'Dallas Cowboys',\n\t\taway_team: 'New York Giants',\n\t\tscores: [\n\t\t\t{\n\t\t\t\tname: 'Dallas Cowboys',\n\t\t\t\tscore: '28'\n\t\t\t},\n\t\t\t{\n\t\t\t\tname: 'New York Giants',\n\t\t\t\tscore: '20'\n\t\t\t}\n\t\t],\n\t\tlast_update: '2022-11-25T04:34:40Z'\n\t},\n\t{\n\t\tid: 'bcc13922c6264eaf1f2a63ff1870a580',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-25T01:23:59Z',\n\t\tcompleted: true,\n\t\thome_team: 'Minnesota Vikings',\n\t\taway_team: 'New England Patriots',\n\t\tscores: [\n\t\t\t{\n\t\t\t\tname: 'Minnesota Vikings',\n\t\t\t\tscore: '33'\n\t\t\t},\n\t\t\t{\n\t\t\t\tname: 'New England Patriots',\n\t\t\t\tscore: '26'\n\t\t\t}\n\t\t],\n\t\tlast_update: '2022-11-25T04:34:40Z'\n\t},\n\t{\n\t\tid: '6ed6b7033de80a6acae7123c23a71963',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Washington Commanders',\n\t\taway_team: 'Atlanta Falcons',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: 'f3d4a9a81b6e2a4d6562e069ab0a2ff3',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Jacksonville Jaguars',\n\t\taway_team: 'Baltimore Ravens',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '9c1fde4f7f0376df696309ad98202102',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Carolina Panthers',\n\t\taway_team: 'Denver Broncos',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '38bf123ec9df3af4efff83e45f472c61',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'New York Jets',\n\t\taway_team: 'Chicago Bears',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '2444eaf8abc191114f858dc98d2d8d81',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Tennessee Titans',\n\t\taway_team: 'Cincinnati Bengals',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '2fb2ee796b6d7f240603c06a2a981b35',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Cleveland Browns',\n\t\taway_team: 'Tampa Bay Buccaneers',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: 'dbef6e83eefc8bbae8f75546dcd307c7',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T18:00:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Miami Dolphins',\n\t\taway_team: 'Houston Texans',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: 'ecdbfe9b206222bd1a8f42325b22b594',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T21:05:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Arizona Cardinals',\n\t\taway_team: 'Los Angeles Chargers',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '5b09f0e3e19fda1bcc3ada157285ef2b',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T21:05:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Seattle Seahawks',\n\t\taway_team: 'Las Vegas Raiders',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: 'cde5ac558586f86472c25a36c4da943f',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T21:25:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Kansas City Chiefs',\n\t\taway_team: 'Los Angeles Rams',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: 'c00c2b33fb6e444baf36064cc1351305',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-27T21:25:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'San Francisco 49ers',\n\t\taway_team: 'New Orleans Saints',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '3b11e95bcebc77bc722ae73cef93d1de',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-28T01:20:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Philadelphia Eagles',\n\t\taway_team: 'Green Bay Packers',\n\t\tscores: null,\n\t\tlast_update: null\n\t},\n\t{\n\t\tid: '5a9f3d53ca881b4b20b28b4c16066adc',\n\t\tsport_key: 'americanfootball_nfl',\n\t\tsport_title: 'NFL',\n\t\tcommence_time: '2022-11-29T01:15:00Z',\n\t\tcompleted: false,\n\t\thome_team: 'Indianapolis Colts',\n\t\taway_team: 'Pittsburgh Steelers',\n\t\tscores: null,\n\t\tlast_update: null\n\t}\n]","timestamp":"11-24 23:34:42"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"11-25 00:48:57"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:00:00"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:05:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:10:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:15:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:20:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:25:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:30:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:35:00"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:40:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:45:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:50:00"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 15:55:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-04 16:00:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:00:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:05:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:10:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:15:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:25:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:30:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:35:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:40:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:45:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:50:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 21:55:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:00:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:05:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:10:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:15:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:20:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:25:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:30:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:35:00"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:40:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:45:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:50:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 22:55:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:00:04"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:05:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:10:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:15:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:20:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:25:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:30:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:35:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:40:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:45:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:50:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-06 23:55:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:00:04"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:05:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:10:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:15:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:20:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:25:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:30:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:35:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:40:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:45:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:50:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 00:55:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 01:00:04"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 01:05:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 01:10:02"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 01:15:03"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-07 01:20:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"12-14 17:58:26"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"01-18 08:00:00"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"01-21 11:45:01"}
+{"level":"info","message":"API Connection Info","status":"Connection successful","timestamp":"01-21 11:46:01"}

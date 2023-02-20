@@ -1,0 +1,699 @@
+09-06 23:21:55: Launching [deleteBetFromArray.js]
+09-06 23:21:55: [deleteBetArr.js] Index of Bet 9322 in Array: 6
+09-06 23:21:55: [deleteBetArr.js] MemoryArray: [[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"9322","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]]
+09-06 23:21:55: [deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"9322","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]
+09-06 23:21:55: [deleteBetArr.js] Successfully deleted bet #9322 from Local Storage Betslips array for 208016830491525120
+09-06 23:21:55: [deleteBetArr.js] Flattened Array:[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+[deleteBetArr.js] Pulled Array:[{"name":"Bet ID","value":"9322","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]
+09-06 23:33:58: Launching [deleteBetFromArray.js]
+09-06 23:33:58: [deleteBetArr.js] Index of Bet 679 in Array: 6
+09-06 23:33:58: [deleteBetArr.js] MemoryArray: [[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"679","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]]
+09-06 23:33:58: [deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"679","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]
+09-06 23:33:58: [deleteBetArr.js] Successfully deleted bet #679 from Local Storage Betslips array for 208016830491525120
+09-06 23:33:58: [deleteBetArr.js] Flattened Array:[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+[deleteBetArr.js] Pulled Array:[{"name":"Bet ID","value":"679","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]
+09-06 23:41:26: Launching [deleteBetFromArray.js]
+09-06 23:43:56: Launching [deleteBetFromArray.js]
+09-06 23:43:56: [deleteBetArr.js] Index of Bet 7438 in Array: -1
+09-06 23:43:56: [deleteBetArr.js] MemoryArray: [[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]]
+09-06 23:43:56: [deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+09-06 23:43:56: [deleteBetArr.js] Successfully deleted bet #7438 from Local Storage Betslips array for 208016830491525120
+09-06 23:43:56: [deleteBetArr.js] Flattened Array:[{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+[deleteBetArr.js] Pulled Array:[null,{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true}]
+09-07 00:13:04: Launching [deleteBetFromArray.js]
+09-07 00:14:21: Launching [deleteBetFromArray.js]
+09-07 00:21:55: Launching [deleteBetFromArray.js]
+09-07 00:22:12: Launching [deleteBetFromArray.js]
+09-07 00:30:37:
+Launching [deleteBetFromArray.js]
+09-07 00:30:43:
+Launching [deleteBetFromArray.js]
+09-07 00:30:43:
+Index of Bet: 6
+09-07 00:30:43:
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+09-07 00:30:43:
+[deleteBetArr.js] Successfully deleted bet #9908 from Local Storage Betslips array for 208016830491525120
+09-07 12:35:34:
+Launching [deleteBetFromArray.js]
+09-07 12:35:34:
+Index of Bet: 0
+09-07 12:35:34:
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+09-07 12:35:34:
+[deleteBetArr.js] Successfully deleted bet #3655 from Local Storage Betslips array for 208016830491525120
+09-07 12:41:11:
+Launching [deleteBetFromArray.js]
+09-07 12:41:11:
+Index of Bet: -1
+09-07 12:41:11:
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"3440","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Minnesota Vikings \n ​","inline":true},{"name":"Bet ID","value":"1887","inline":true},{"name":"Amount","value":"100","inline":true}]
+09-07 12:41:11:
+[deleteBetArr.js] Successfully deleted bet #3038 from Local Storage Betslips array for 208016830491525120
+09-08 14:56:38: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 14:56:41: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:49:40: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:50:56: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:52:36: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:52:55: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:53:28: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:54:34: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 21:56:39: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:53:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:53:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:53:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:53:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:53:00: - Logging - 
+Index of Bet: -1
+09-08 23:53:00: - Logging - 
+Index of Bet: 0
+09-08 23:53:00: - Logging - 
+Index of Bet: 0
+09-08 23:53:00: - Logging - 
+Index of Bet: 0
+09-08 23:53:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-08 23:53:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-08 23:53:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-08 23:53:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-08 23:53:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-08 23:53:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-08 23:53:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-08 23:53:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-08 23:54:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:54:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:54:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:54:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:54:00: - Logging - 
+Index of Bet: -1
+09-08 23:54:00: - Logging - 
+Index of Bet: -1
+09-08 23:54:00: - Logging - 
+Index of Bet: -1
+09-08 23:54:00: - Logging - 
+Index of Bet: -1
+09-08 23:54:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-08 23:54:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-08 23:54:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-08 23:54:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-08 23:54:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-08 23:54:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-08 23:54:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-08 23:54:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-08 23:55:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:55:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:55:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:55:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:55:01: - Logging - 
+Index of Bet: -1
+09-08 23:55:01: - Logging - 
+Index of Bet: -1
+09-08 23:55:01: - Logging - 
+Index of Bet: -1
+09-08 23:55:01: - Logging - 
+Index of Bet: -1
+09-08 23:55:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-08 23:55:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-08 23:55:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-08 23:55:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-08 23:55:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-08 23:55:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-08 23:55:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-08 23:55:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-08 23:56:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:56:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:56:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:56:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:56:01: - Logging - 
+Index of Bet: -1
+09-08 23:56:01: - Logging - 
+Index of Bet: -1
+09-08 23:56:01: - Logging - 
+Index of Bet: -1
+09-08 23:56:01: - Logging - 
+Index of Bet: -1
+09-08 23:56:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-08 23:56:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-08 23:56:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-08 23:56:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-08 23:56:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-08 23:56:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-08 23:56:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-08 23:56:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-08 23:57:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:57:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:57:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:57:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-08 23:57:01: - Logging - 
+Index of Bet: -1
+09-08 23:57:01: - Logging - 
+Index of Bet: -1
+09-08 23:57:01: - Logging - 
+Index of Bet: -1
+09-08 23:57:01: - Logging - 
+Index of Bet: -1
+09-08 23:57:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-08 23:57:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-08 23:57:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-08 23:57:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-08 23:57:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-08 23:57:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-08 23:57:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-08 23:57:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-09 00:02:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-09 00:02:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-09 00:02:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-09 00:02:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-09 00:02:01: - Logging - 
+Index of Bet: -1
+09-09 00:02:01: - Logging - 
+Index of Bet: -1
+09-09 00:02:01: - Logging - 
+Index of Bet: -1
+09-09 00:02:01: - Logging - 
+Index of Bet: -1
+09-09 00:02:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 461738034581209088
+[]
+09-09 00:02:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3692 from Local Storage Betslips array for 461738034581209088
+09-09 00:02:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-09 00:02:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2694 from Local Storage Betslips array for 208016830491525120
+09-09 00:02:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 229030234563805185
+[]
+09-09 00:02:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6517 from Local Storage Betslips array for 229030234563805185
+09-09 00:02:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 185580652282773504
+[]
+09-09 00:02:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3347 from Local Storage Betslips array for 185580652282773504
+09-13 15:08:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-13 15:08:08: - Logging - 
+Launching [deleteBetFromArray.js]
+09-13 15:08:11: - Logging - 
+Launching [deleteBetFromArray.js]
+09-15 20:18:45: - Logging - 
+Launching [deleteBetFromArray.js]
+09-15 22:38:36: - Logging - 
+Launching [deleteBetFromArray.js]
+09-15 22:41:53: - Logging - 
+Launching [deleteBetFromArray.js]
+09-15 23:30:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-15 23:30:01: - Logging - 
+Index of Bet: -1
+09-15 23:30:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-15 23:30:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #1159 from Local Storage Betslips array for 208016830491525120
+09-16 01:14:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:14:01: - Logging - 
+Index of Bet: -1
+09-16 01:14:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:14:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3624 from Local Storage Betslips array for 208016830491525120
+09-16 01:19:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:19:01: - Logging - 
+Index of Bet: -1
+09-16 01:19:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:19:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #1262 from Local Storage Betslips array for 208016830491525120
+09-16 01:29:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:29:01: - Logging - 
+Index of Bet: -1
+09-16 01:29:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:29:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #3091 from Local Storage Betslips array for 208016830491525120
+09-16 01:32:02: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:32:02: - Logging - 
+Index of Bet: -1
+09-16 01:32:02: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:32:02: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #5318 from Local Storage Betslips array for 208016830491525120
+09-16 01:34:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:34:00: - Logging - 
+Index of Bet: -1
+09-16 01:34:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:34:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2749 from Local Storage Betslips array for 208016830491525120
+09-16 01:56:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 01:56:00: - Logging - 
+Index of Bet: -1
+09-16 01:56:00: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-16 01:56:00: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2132 from Local Storage Betslips array for 208016830491525120
+09-16 02:00:10: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 02:01:00: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 02:05:44: - Logging - 
+Launching [deleteBetFromArray.js]
+09-16 02:08:49: - Logging - 
+Launching [deleteBetFromArray.js]
+09-18 16:30:01: - Logging - 
+Launching [deleteBetFromArray.js]
+09-18 16:30:01: - Logging - 
+Index of Bet: -1
+09-18 16:30:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true}]
+09-18 16:30:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #537 from Local Storage Betslips array for 208016830491525120
+09-19 13:10:02: - Logging - 
+Launching [deleteBetFromArray.js]
+09-19 13:10:02: - Logging - 
+Index of Bet: 9
+09-19 13:10:02: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"2970","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Las Vegas Raiders \n ​","inline":true},{"name":"Bet ID","value":"1522","inline":true},{"name":"Amount","value":"250","inline":true},{"name":"Team ID","value":"Chicago Bears \n ​","inline":true},{"name":"Bet ID","value":"2966","inline":true},{"name":"Amount","value":"200","inline":true},{"name":"Team ID","value":"Houston Texans \n ​","inline":true},{"name":"Bet ID","value":"6600","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Atlanta Falcons \n ​","inline":true}]
+09-19 13:10:02: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #5918 from Local Storage Betslips array for 208016830491525120
+09-19 13:10:02: - Logging - 
+Launching [deleteBetFromArray.js]
+09-19 13:10:02: - Logging - 
+Index of Bet: 12
+09-19 13:10:02: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"2970","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Las Vegas Raiders \n ​","inline":true},{"name":"Bet ID","value":"1522","inline":true},{"name":"Amount","value":"250","inline":true},{"name":"Team ID","value":"Chicago Bears \n ​","inline":true},{"name":"Bet ID","value":"2966","inline":true},{"name":"Amount","value":"200","inline":true},{"name":"Team ID","value":"Houston Texans \n ​","inline":true}]
+09-19 13:10:02: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #6600 from Local Storage Betslips array for 208016830491525120
+09-19 13:10:02: - Logging - 
+Launching [deleteBetFromArray.js]
+09-19 13:10:02: - Logging - 
+Index of Bet: 3
+09-19 13:10:02: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"1522","inline":true},{"name":"Amount","value":"250","inline":true},{"name":"Team ID","value":"Chicago Bears \n ​","inline":true},{"name":"Bet ID","value":"2966","inline":true},{"name":"Amount","value":"200","inline":true},{"name":"Team ID","value":"Houston Texans \n ​","inline":true}]
+09-19 13:10:02: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2970 from Local Storage Betslips array for 208016830491525120
+09-19 13:10:02: - Logging - 
+Launching [deleteBetFromArray.js]
+09-19 13:10:02: - Logging - 
+Index of Bet: 6
+09-19 13:10:02: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true},{"name":"Bet ID","value":"1522","inline":true},{"name":"Amount","value":"250","inline":true},{"name":"Team ID","value":"Chicago Bears \n ​","inline":true}]
+09-19 13:10:02: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2966 from Local Storage Betslips array for 208016830491525120
+09-19 13:10:07: - Logging - 
+Launching [deleteBetFromArray.js]
+09-19 13:10:07: - Logging - 
+Index of Bet: 3
+09-19 13:10:07: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[{"name":"Bet ID","value":"646","inline":true},{"name":"Amount","value":"100","inline":true},{"name":"Team ID","value":"Philadelphia Eagles \n ​","inline":true}]
+09-19 13:10:07: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #1522 from Local Storage Betslips array for 208016830491525120
+09-22 15:50:45: - Logging - 
+Launching [deleteBetFromArray.js]
+09-23 13:54:18: - Logging - 
+Launching [deleteBetFromArray.js]
+09-24 17:50:18: - Logging - 
+Launching [deleteBetFromArray.js]
+09-24 17:50:18: - Logging - 
+Index of Bet: -1
+09-24 17:50:18: - Logging - 
+Launching [deleteBetFromArray.js]
+09-24 17:50:18: - Logging - 
+Index of Bet: -1
+09-24 17:53:17: - Logging - 
+Launching [deleteBetFromArray.js]
+09-24 17:53:17: - Logging - 
+Launching [deleteBetFromArray.js]
+09-24 17:53:17: - Logging - 
+Index of Bet: -1
+09-24 17:53:17: - Logging - 
+Index of Bet: -1
+09-24 17:56:05: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7282 associated with userid: 208016830491525120
+09-24 17:56:05: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #6197 associated with userid: 934338000064766003
+09-24 17:56:05: - Logging - 
+[node-persist][readFile] .node-persist\storage\bccabbd19a2ac02921c28d755a87c627 does not look like a valid storage file!
+09-24 17:56:05: - Logging - 
+Index of Bet: -1
+09-24 17:56:05: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-24 19:28:11: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #8966 associated with userid: 208016830491525120
+09-24 19:29:04: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #4006 associated with userid: 208016830491525120
+09-24 19:29:45: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7468 associated with userid: 208016830491525120
+09-24 19:49:52: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #3421 associated with userid: 208016830491525120
+09-24 19:50:22: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2976 associated with userid: 208016830491525120
+09-24 19:51:13: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #3921 associated with userid: 208016830491525120
+09-24 19:51:29: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #4425 associated with userid: 208016830491525120
+09-24 19:53:26: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #8644 associated with userid: 208016830491525120
+09-24 19:54:54: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #5004 associated with userid: 208016830491525120
+09-24 19:59:47: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #6903 associated with userid: 208016830491525120
+09-24 20:01:30: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2733 associated with userid: 208016830491525120
+09-24 20:14:56: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2079 associated with userid: 208016830491525120
+09-24 20:15:45: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2305 associated with userid: 208016830491525120
+09-24 20:16:38: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2049 associated with userid: 208016830491525120
+09-24 20:18:27: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7133 associated with userid: 208016830491525120
+09-24 20:19:20: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #3408 associated with userid: 208016830491525120
+09-24 20:19:59: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7926 associated with userid: 208016830491525120
+09-24 20:20:53: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2161 associated with userid: 208016830491525120
+09-24 20:22:20: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2444 associated with userid: 208016830491525120
+09-24 20:22:59: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #3020 associated with userid: 208016830491525120
+09-24 20:23:56: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #5362 associated with userid: 208016830491525120
+09-24 20:24:56: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #4225 associated with userid: 208016830491525120
+09-24 20:25:24: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #3114 associated with userid: 208016830491525120
+09-24 20:27:25: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #8309 associated with userid: 208016830491525120
+09-24 20:27:59: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1512 associated with userid: 208016830491525120
+09-24 20:29:31: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2900 associated with userid: 208016830491525120
+09-24 20:33:20: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7812 associated with userid: 208016830491525120
+09-25 16:25:04: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1915 associated with userid: 208016830491525120
+09-25 16:35:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1915 associated with userid: 208016830491525120
+09-25 16:55:02: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1915 associated with userid: 208016830491525120
+09-25 17:00:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1915 associated with userid: 208016830491525120
+09-25 17:00:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7405 associated with userid: 208016830491525120
+09-25 17:00:01: - Logging - 
+Index of Bet: -1
+09-25 17:00:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 17:00:01: - Logging - 
+Index of Bet: -1
+09-25 17:00:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 17:00:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7405 associated with userid: 208016830491525120
+09-25 17:00:01: - Logging - 
+Index of Bet: -1
+09-25 17:00:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 17:10:59: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #1915 associated with userid: 208016830491525120
+09-25 17:11:05: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7405 associated with userid: 208016830491525120
+09-25 18:58:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 18:58:01: - Logging - 
+Index of Bet: -1
+09-25 18:58:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-25 18:58:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #7350 from Local Storage Betslips array for 208016830491525120
+09-25 19:00:03: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:00:03: - Logging - 
+Index of Bet: -1
+09-25 19:00:03: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:02:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:02:01: - Logging - 
+Index of Bet: -1
+09-25 19:02:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:04:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:04:01: - Logging - 
+Index of Bet: -1
+09-25 19:04:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:32:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:32:01: - Logging - 
+Index of Bet: -1
+09-25 19:32:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:34:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:34:01: - Logging - 
+Index of Bet: -1
+09-25 19:34:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:36:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:36:01: - Logging - 
+Index of Bet: -1
+09-25 19:36:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:38:02: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:38:02: - Logging - 
+Index of Bet: -1
+09-25 19:38:02: - Logging - 
+Cannot read properties of undefined (reading 'splice')
+09-25 19:40:30: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7350 associated with userid: 208016830491525120
+09-25 19:42:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #2993 associated with userid: 208016830491525120
+09-25 19:42:01: - Logging - 
+Index of Bet: -1
+09-25 19:42:01: - Logging - 
+
+[deleteBetFromArray.js] Collected Betslip for 208016830491525120
+[]
+09-25 19:42:01: - Logging - 
+[deleteBetArr.js] Successfully deleted bet #2993 from Local Storage Betslips array for 208016830491525120
+09-25 22:54:01: - Logging - 
+Launching [deleteBetFromArray.js]
+Searching for betid: #7233 associated with userid: 208016830491525120
+09-25 22:54:01: - Logging - 
+Index of Bet: -1
+09-25 22:54:01: - Logging - 
+Cannot read properties of undefined (reading 'splice')

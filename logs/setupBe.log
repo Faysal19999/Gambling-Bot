@@ -1,0 +1,4746 @@
+10-02 10:38:14: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 5000
+Team: San Francisco 49ers
+10-02 10:43:30: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:43:30: - Logging - 
+Error: Error
+10-02 10:44:28: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:49:21: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:52:19: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:58:35: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:59:23: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 10:59:23: - Logging - 
+Error: Error
+10-02 11:06:47: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 5000
+Team: San Francisco 49ers
+10-02 11:06:48: - Logging - 
+Error: Error
+10-02 11:16:19: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 11:16:19: - Logging - 
+[isMatchExist.js] Match 5706 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-02 11:16:19: - Logging - 
+Betslip Matchup Information Located:
+Odds: 104
+Team ID: San Francisco 49ers
+10-02 11:16:19: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 11:16:20: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'San Francisco 49ers',
+	payout: 204,
+	profit: 104,
+	betid: 2992
+}
+10-02 11:16:20: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 11:16:20: - Logging - 
+Successfully added betslip into the database.
+10-02 11:22:28: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 11:22:28: - Logging - 
+[isMatchExist.js] Match 5706 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-02 11:22:28: - Logging - 
+Betslip Matchup Information Located:
+Odds: 104
+Team ID: San Francisco 49ers
+10-02 11:22:28: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 11:22:29: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'San Francisco 49ers',
+	payout: 204,
+	profit: 104,
+	betid: 9811
+}
+10-02 11:22:29: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 11:22:29: - Logging - 
+Successfully added betslip into the database.
+10-02 11:22:29: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 400
+10-02 11:22:29: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 300
+10-02 11:33:02: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 11:33:02: - Logging - 
+[isMatchExist.js] Match 5706 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-02 11:33:02: - Logging - 
+Betslip Matchup Information Located:
+Odds: 104
+Team ID: San Francisco 49ers
+10-02 11:33:02: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 11:33:03: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'San Francisco 49ers',
+	payout: 204,
+	profit: 104,
+	betid: 1088
+}
+10-02 11:33:03: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 11:33:03: - Logging - 
+Successfully added betslip into the database.
+10-02 11:33:03: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 400
+10-02 11:33:03: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 300
+10-02 16:26:05: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Minnesota Vikings
+10-02 16:26:05: - Logging - 
+[isMatchExist.js] Match 1063 [New Orleans Saints vs Minnesota Vikings] exists in the database
+10-02 16:26:05: - Logging - 
+Betslip Matchup Information Located:
+Odds: 148
+Team ID: Minnesota Vikings
+10-02 16:26:05: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 16:26:07: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Minnesota Vikings',
+	payout: 248,
+	profit: 148,
+	betid: 2471
+}
+10-02 16:26:07: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 16:26:07: - Logging - 
+Successfully added betslip into the database.
+10-02 16:26:07: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 300
+10-02 16:26:07: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 200
+10-02 16:48:05: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 16:48:05: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:48:05: - Logging - 
+Betslip Matchup Information Located:
+Odds: 205
+Team ID: Houston Texans
+10-02 16:48:05: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 16:48:06: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Houston Texans',
+	payout: 305,
+	profit: 205,
+	betid: 4430
+}
+10-02 16:48:06: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 16:48:06: - Logging - 
+Successfully added betslip into the database.
+10-02 16:48:06: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 348
+10-02 16:48:06: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 248
+10-02 16:51:46: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 16:51:46: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:51:46: - Logging - 
+Betslip Matchup Information Located:
+Odds: 205
+Team ID: Houston Texans
+10-02 16:51:46: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 16:51:48: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Houston Texans',
+	payout: 305,
+	profit: 205,
+	betid: 5177
+}
+10-02 16:51:48: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 16:51:48: - Logging - 
+Successfully added betslip into the database.
+10-02 16:51:48: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 248
+10-02 16:51:48: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 148
+10-02 16:53:39: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 16:53:39: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:53:39: - Logging - 
+Betslip Matchup Information Located:
+Odds: 205
+Team ID: Houston Texans
+10-02 16:53:39: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 16:53:41: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Houston Texans',
+	payout: 305,
+	profit: 205,
+	betid: 5425
+}
+10-02 16:53:41: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 16:53:41: - Logging - 
+Successfully added betslip into the database.
+10-02 16:53:41: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 148
+10-02 16:53:41: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 48
+10-02 16:53:44: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 16:53:44: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:53:45: - Logging - 
+Error: DiscordAPIError: Interaction has already been acknowledged.
+10-02 16:54:29: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 16:54:29: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:54:29: - Logging - 
+Error: Error
+10-02 16:54:56: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 5000
+Team: Houston Texans
+10-02 16:54:56: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:54:56: - Logging - 
+Error: Error
+10-02 16:55:07: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 5000
+Team: Houston Texans
+10-02 16:55:07: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 16:55:07: - Logging - 
+Betslip Matchup Information Located:
+Odds: 205
+Team ID: Houston Texans
+10-02 16:55:07: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 16:55:09: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 5000,
+	teamid: 'Houston Texans',
+	payout: 15250,
+	profit: 10250,
+	betid: 4180
+}
+10-02 16:55:09: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 16:55:09: - Logging - 
+Successfully added betslip into the database.
+10-02 16:55:09: - Logging - 
+User 208016830491525120 has enough money to bet 5000 - Current Balance: 5000
+10-02 16:55:09: - Logging - 
+Successfully subtracted $5000 dollars from user 208016830491525120. New Balance: 0
+10-02 17:13:48: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 17:13:49: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 17:13:49: - Logging - 
+Betslip Matchup Information Located:
+Odds: 205
+Team ID: Houston Texans
+10-02 17:13:49: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 17:13:52: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Houston Texans',
+	payout: 305,
+	profit: 205,
+	betid: 5628
+}
+10-02 17:13:52: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 17:13:52: - Logging - 
+Successfully added betslip into the database.
+10-02 17:13:52: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 90000000000000
+10-02 17:13:52: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 89999999999900
+10-02 17:14:25: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 4000
+Team: Los Angeles Chargers
+10-02 17:14:26: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 17:14:26: - Logging - 
+Betslip Matchup Information Located:
+Odds: -250
+Team ID: Los Angeles Chargers
+10-02 17:14:26: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 17:14:27: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 4000,
+	teamid: 'Los Angeles Chargers',
+	payout: 5600,
+	profit: 1600,
+	betid: 6316
+}
+10-02 17:14:27: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 17:14:27: - Logging - 
+Successfully added betslip into the database.
+10-02 17:14:27: - Logging - 
+User 208016830491525120 has enough money to bet 4000 - Current Balance: 90000000000000
+10-02 17:14:27: - Logging - 
+Successfully subtracted $4000 dollars from user 208016830491525120. New Balance: 89999999996000
+10-02 17:38:45: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 200
+Team: Los Angeles Chargers
+10-02 17:38:45: - Logging - 
+[isMatchExist.js] Match 188 [Houston Texans vs Los Angeles Chargers] exists in the database
+10-02 17:38:45: - Logging - 
+Betslip Matchup Information Located:
+Odds: -250
+Team ID: Los Angeles Chargers
+10-02 17:38:45: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 17:38:48: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 200,
+	teamid: 'Los Angeles Chargers',
+	payout: 280,
+	profit: 80,
+	betid: 5492
+}
+10-02 17:38:48: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 17:38:48: - Logging - 
+Successfully added betslip into the database.
+10-02 17:38:48: - Logging - 
+User 208016830491525120 has enough money to bet 200 - Current Balance: 90000000000000
+10-02 17:38:48: - Logging - 
+Successfully subtracted $200 dollars from user 208016830491525120. New Balance: 89999999999800
+10-02 17:55:06: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 300
+Team: Kansas City Chiefs
+10-02 17:55:06: - Logging - 
+[isMatchExist.js] Match 5529 [Tampa Bay Buccaneers vs Kansas City Chiefs] exists in the database
+10-02 17:55:06: - Logging - 
+Betslip Matchup Information Located:
+Odds: -132
+Team ID: Kansas City Chiefs
+10-02 17:55:06: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 17:55:08: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 300,
+	teamid: 'Kansas City Chiefs',
+	payout: 527.27,
+	profit: 227.27,
+	betid: 3722
+}
+10-02 17:55:08: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 17:55:08: - Logging - 
+Successfully added betslip into the database.
+10-02 17:55:08: - Logging - 
+User 208016830491525120 has enough money to bet 300 - Current Balance: 90000000000000
+10-02 17:55:08: - Logging - 
+Successfully subtracted $300 dollars from user 208016830491525120. New Balance: 89999999999700
+10-02 17:56:24: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Kansas City Chiefs
+10-02 17:56:24: - Logging - 
+[isMatchExist.js] Match 3712 [Tampa Bay Buccaneers vs Kansas City Chiefs] exists in the database
+10-02 17:56:24: - Logging - 
+Betslip Matchup Information Located:
+Odds: -132
+Team ID: Kansas City Chiefs
+10-02 17:56:24: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 17:56:26: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Kansas City Chiefs',
+	payout: 175.76,
+	profit: 75.76,
+	betid: 7039
+}
+10-02 17:56:26: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 90000000000000
+10-02 17:56:26: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 17:56:26: - Logging - 
+Successfully added betslip into the database.
+10-02 17:56:26: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 89999999999900
+10-02 18:48:29: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: San Francisco 49ers
+10-02 18:48:29: - Logging - 
+[isMatchExist.js] Match 5682 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-02 18:48:29: - Logging - 
+Betslip Matchup Information Located:
+Odds: 104
+Team ID: San Francisco 49ers
+10-02 18:48:29: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-02 18:48:30: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'San Francisco 49ers',
+	payout: 204,
+	profit: 104,
+	betid: 4751
+}
+10-02 18:48:30: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-02 18:48:30: - Logging - 
+Successfully added betslip into the database.
+10-02 18:48:30: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 90000000000000
+10-02 18:48:30: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 89999999999900
+10-02 21:57:54: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Chargers
+10-02 21:57:54: - Logging - 
+Error: error: invalid input syntax for type bigint: "NaN"
+10-02 21:58:55: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Texans
+10-02 21:58:55: - Logging - 
+Error: error: invalid input syntax for type bigint: "NaN"
+10-03 16:09:13: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-03 16:09:13: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM activematchups WHERE teamone = 'Los Angeles Rams' OR teamtwo = 'Los Angeles Rams'"
+}
+10-03 16:09:53: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-03 16:09:53: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM activematchups WHERE teamone = 'Los Angeles Rams' OR teamtwo = 'Los Angeles Rams'"
+}
+10-03 16:10:26: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-03 16:10:26: - Logging - 
+[isMatchExist.js] Match 919 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-03 16:10:27: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-03 16:10:27: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-03 16:10:28: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Los Angeles Rams',
+	payout: 179.37,
+	profit: 79.37,
+	betid: 4951
+}
+10-03 16:10:28: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-03 16:10:28: - Logging - 
+Successfully added betslip into the database.
+10-03 16:10:28: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 300
+10-03 16:10:28: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 200
+10-03 19:49:45: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-03 19:49:45: - Logging - 
+[isMatchExist.js] Match 919 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-03 19:49:45: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-03 19:49:45: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-03 19:49:47: - Logging - 
+Betslip cancelled for 208016830491525120
+10-04 00:48:10: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-04 00:48:10: - Logging - 
+[isMatchExist.js] Match 7568 [San Fransisco 49ers vs Los Angeles Rams] exists in the database
+10-04 00:48:10: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-04 00:48:10: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-04 00:48:12: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Los Angeles Rams',
+	payout: 179.37,
+	profit: 79.37,
+	betid: 7949
+}
+10-04 00:48:12: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-04 00:48:12: - Logging - 
+Successfully added betslip into the database.
+10-04 00:48:12: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 429.37
+10-04 00:48:12: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 329
+10-04 01:47:23: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 150
+Team: Los Angeles Rams
+10-04 01:47:23: - Logging - 
+[isMatchExist.js] Match 7568 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-04 01:47:23: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-04 01:47:23: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-04 01:47:24: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 150,
+	teamid: 'Los Angeles Rams',
+	payout: 269.05,
+	profit: 119.05,
+	betid: 116
+}
+10-04 01:47:24: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-04 01:47:24: - Logging - 
+Successfully added betslip into the database.
+10-04 01:47:24: - Logging - 
+User 208016830491525120 has enough money to bet 150 - Current Balance: 510.97
+10-04 01:47:24: - Logging - 
+Successfully subtracted $150 dollars from user 208016830491525120. New Balance: 360
+10-04 01:50:31: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-04 01:50:31: - Logging - 
+[isMatchExist.js] Match 7568 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-04 01:50:31: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-04 01:50:31: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-04 01:50:32: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Los Angeles Rams',
+	payout: 179.37,
+	profit: 79.37,
+	betid: 3365
+}
+10-04 01:50:32: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-04 01:50:32: - Logging - 
+Successfully added betslip into the database.
+10-04 01:50:32: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 632.95
+10-04 01:50:32: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 532
+10-04 01:55:31: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Rams
+10-04 01:55:31: - Logging - 
+[isMatchExist.js] Match 7568 [San Francisco 49ers vs Los Angeles Rams] exists in the database
+10-04 01:55:31: - Logging - 
+Betslip Matchup Information Located:
+Odds: -126
+Team ID: Los Angeles Rams
+10-04 01:55:31: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-04 01:55:33: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Los Angeles Rams',
+	payout: 179.37,
+	profit: 79.37,
+	betid: 1150
+}
+10-04 01:55:33: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-04 01:55:33: - Logging - 
+Successfully added betslip into the database.
+10-04 01:55:33: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 532
+10-04 01:55:33: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 432
+10-04 02:23:30: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Washington Commanders
+10-04 02:23:31: - Logging - 
+[isMatchExist.js] Match 1160 [Washington Commanders vs Tennessee Titans] exists in the database
+10-04 02:23:31: - Logging - 
+Betslip Matchup Information Located:
+Odds: -138
+Team ID: Washington Commanders
+10-04 02:23:31: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-04 02:23:33: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Washington Commanders',
+	payout: 172.46,
+	profit: 72.46,
+	betid: 1023
+}
+10-04 02:23:33: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-04 02:23:33: - Logging - 
+Successfully added betslip into the database.
+10-04 02:23:33: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 432
+10-04 02:23:33: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 332
+10-11 12:16:01: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+10-11 12:16:01: - Logging - 
+[isMatchExist.js] Match 2633 [Cleveland Browns vs New England Patriots] exists in the database
+10-11 12:16:01: - Logging - 
+Betslip Matchup Information Located:
+Odds: 134
+Team ID: New England Patriots
+10-11 12:16:01: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-11 12:16:02: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'New England Patriots',
+	payout: 234,
+	profit: 134,
+	betid: 7794
+}
+10-11 12:16:02: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-11 12:16:02: - Logging - 
+Successfully added betslip into the database.
+10-11 12:16:02: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 332
+10-11 12:16:02: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 232
+10-11 12:16:26: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 150
+Team: New England Patriots
+10-11 12:16:26: - Logging - 
+[isMatchExist.js] Match 2633 [Cleveland Browns vs New England Patriots] exists in the database
+10-11 12:16:26: - Logging - 
+Betslip Matchup Information Located:
+Odds: 134
+Team ID: New England Patriots
+10-11 12:16:26: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-11 12:16:28: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 150,
+	teamid: 'New England Patriots',
+	payout: 351,
+	profit: 201,
+	betid: 3391
+}
+10-11 12:16:28: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-11 12:16:28: - Logging - 
+Successfully added betslip into the database.
+10-11 12:16:28: - Logging - 
+User 208016830491525120 has enough money to bet 150 - Current Balance: 332
+10-11 12:16:28: - Logging - 
+Successfully subtracted $150 dollars from user 208016830491525120. New Balance: 182
+10-16 16:16:37: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Philadelphia Eagles
+10-16 16:16:37: - Logging - 
+[isMatchExist.js] Match 8643 [Philadelphia Eagles vs Dallas Cowboys] exists in the database
+10-16 16:16:37: - Logging - 
+Betslip Matchup Information Located:
+Odds: 235
+Team ID: Philadelphia Eagles
+10-16 16:16:37: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-16 16:16:39: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Philadelphia Eagles',
+	payout: 335,
+	profit: 235,
+	betid: 5538
+}
+10-16 16:16:39: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-16 16:16:39: - Logging - 
+Successfully added betslip into the database.
+10-16 16:16:39: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 382
+10-16 16:16:39: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 282
+10-16 16:16:47: - Logging - 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Kansas City Chiefs
+10-16 16:16:47: - Logging - 
+[isMatchExist.js] Match 8587 [Kansas City Chiefs vs Buffalo Bills] exists in the database
+10-16 16:16:47: - Logging - 
+Betslip Matchup Information Located:
+Odds: -142
+Team ID: Kansas City Chiefs
+10-16 16:16:47: - Logging - 
+Started bet confirmation timer for 208016830491525120
+10-16 16:16:49: - Logging - 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Kansas City Chiefs',
+	payout: 170.42,
+	profit: 70.42,
+	betid: 2153
+}
+10-16 16:16:49: - Logging - 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 282
+10-16 16:16:49: - Logging - 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+10-16 16:16:49: - Logging - 
+Successfully added betslip into the database.
+10-16 16:16:49: - Logging - 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 182
+10-17 10:44:30: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Carolina Panthers
+--------    --------
+10-17 10:44:30: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-17 10:45:14: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Philadelphia 76ers
+--------    --------
+10-17 10:45:14: --------    -------- 
+[isMatchExist.js] Match 7310 [Boston Celtics vs Philadelphia 76ers] exists in the database
+--------    --------
+10-17 10:45:14: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 116
+Team ID: Philadelphia 76ers
+--------    --------
+10-17 10:45:14: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-17 10:45:21: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Philadelphia 76ers',
+	payout: 216,
+	profit: 116,
+	betid: 2338
+}
+--------    --------
+10-17 10:45:21: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-17 10:45:21: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-17 10:45:21: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 282
+--------    --------
+10-17 10:45:21: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 182
+--------    --------
+10-19 14:01:49: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Washington Wizards
+--------    --------
+10-19 14:01:49: --------    -------- 
+Error: Error
+--------    --------
+10-19 14:02:49: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Washington Wizards
+--------    --------
+10-19 14:02:49: --------    -------- 
+Error: Error
+--------    --------
+10-19 18:51:04: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: San Antonio Spurs
+--------    --------
+10-19 18:51:04: --------    -------- 
+[isMatchExist.js] Match 5337 [San Antonio Spurs vs Charlotte Hornets] exists in the database
+--------    --------
+10-19 18:51:04: --------    -------- 
+Betslip Matchup Information Located:
+Odds: [object Object]
+Team ID: San Antonio Spurs
+--------    --------
+10-19 18:51:04: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-19 18:52:17: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: San Antonio Spurs
+--------    --------
+10-19 18:52:17: --------    -------- 
+[isMatchExist.js] Match 5337 [San Antonio Spurs vs Charlotte Hornets] exists in the database
+--------    --------
+10-19 18:52:17: --------    -------- 
+Betslip Matchup Information Located:
+Odds: [object Object]
+Team ID: San Antonio Spurs
+--------    --------
+10-19 18:52:17: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 12:08:47: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Milwaukee Bucks
+--------    --------
+10-20 12:08:47: --------    -------- 
+Error: Error
+--------    --------
+10-20 12:13:50: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 12:13:50: --------    -------- 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Milwaukee Bucks' OR teamtwo = 'Milwaukee Bucks' AND dateofmatchup = '10/20/2022'"
+}
+--------    --------
+10-20 13:07:12: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 13:07:12: --------    -------- 
+[isMatchExist.js] Match 7046 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 13:07:12: --------    -------- 
+Betslip Matchup Information Located:
+Odds: [object Object]
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 13:07:12: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 13:08:52: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 13:08:52: --------    -------- 
+[isMatchExist.js] Match 7046 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 13:08:52: --------    -------- 
+Betslip Matchup Information Located:
+Odds: [object Object]
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 13:08:52: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 13:14:10: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Milwaukee Bucks
+--------    --------
+10-20 13:14:10: --------    -------- 
+[isMatchExist.js] Match 7046 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 13:14:10: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -176
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 13:14:10: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 13:14:33: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Milwaukee Bucks',
+	payout: 156.82,
+	profit: 56.82,
+	betid: 521
+}
+--------    --------
+10-20 13:14:33: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 282
+--------    --------
+10-20 13:14:33: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 13:14:33: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 13:14:33: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 182
+--------    --------
+10-20 14:16:19: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 3000
+Team: Los Angeles Clippers
+--------    --------
+10-20 14:16:19: --------    -------- 
+[isMatchExist.js] Match 493 [Los Angeles Lakers vs Los Angeles Clippers] exists in the database
+--------    --------
+10-20 14:16:19: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 190
+Team ID: Los Angeles Clippers
+--------    --------
+10-20 14:16:19: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 14:16:22: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 3000,
+	teamid: 'Los Angeles Clippers',
+	payout: 8700,
+	profit: 5700,
+	betid: 4854
+}
+--------    --------
+10-20 14:16:22: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 14:16:22: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 14:16:22: --------    -------- 
+User 208016830491525120 has enough money to bet 3000 - Current Balance: 5000000000
+--------    --------
+10-20 14:16:22: --------    -------- 
+Successfully subtracted $3000 dollars from user 208016830491525120. New Balance: 4999997000
+--------    --------
+10-20 14:17:59: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 30
+Team: Los Angeles Clippers
+--------    --------
+10-20 14:17:59: --------    -------- 
+[isMatchExist.js] Match 493 [Los Angeles Lakers vs Los Angeles Clippers] exists in the database
+--------    --------
+10-20 14:17:59: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 190
+Team ID: Los Angeles Clippers
+--------    --------
+10-20 14:17:59: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 14:18:02: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 30,
+	teamid: 'Los Angeles Clippers',
+	payout: 87,
+	profit: 57,
+	betid: 9672
+}
+--------    --------
+10-20 14:18:02: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 14:18:02: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 14:18:02: --------    -------- 
+User 208016830491525120 has enough money to bet 30 - Current Balance: 4999997000
+--------    --------
+10-20 14:18:02: --------    -------- 
+Successfully subtracted $30 dollars from user 208016830491525120. New Balance: 4999996970
+--------    --------
+10-20 14:19:20: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 30
+Team: Los Angeles Clippers
+--------    --------
+10-20 14:19:20: --------    -------- 
+Error: Error
+--------    --------
+10-20 14:29:13: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Arizona Cardinals
+--------    --------
+10-20 14:29:13: --------    -------- 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM currency WHERE userid = '208016830491525120'"
+}
+--------    --------
+10-20 14:29:56: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 400
+Team: Arizona Cardinals
+--------    --------
+10-20 14:29:56: --------    -------- 
+Error: Error
+--------    --------
+10-20 14:30:20: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 200
+Team: Arizona Cardinals
+--------    --------
+10-20 14:30:20: --------    -------- 
+[isMatchExist.js] Match 9718 [Arizona Cardinals vs New Orleans Saints] exists in the database
+--------    --------
+10-20 14:30:20: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -142
+Team ID: Arizona Cardinals
+--------    --------
+10-20 14:30:20: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 14:30:23: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 200,
+	teamid: 'Arizona Cardinals',
+	payout: 340.85,
+	profit: 140.85,
+	betid: 4010
+}
+--------    --------
+10-20 14:30:23: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 14:30:23: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 14:30:23: --------    -------- 
+User 208016830491525120 has enough money to bet 200 - Current Balance: 5000
+--------    --------
+10-20 14:30:23: --------    -------- 
+Successfully subtracted $200 dollars from user 208016830491525120. New Balance: 4800
+--------    --------
+10-20 15:02:10: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 15:02:10: --------    -------- 
+Error: Error
+--------    --------
+10-20 15:03:10: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 15:03:10: --------    -------- 
+[isMatchExist.js] Match 5813 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 15:03:10: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -176
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 15:03:10: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 15:03:16: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Milwaukee Bucks',
+	payout: 15.68,
+	profit: 5.68,
+	betid: 327
+}
+--------    --------
+10-20 15:03:16: --------    -------- 
+Error adding bet to "NBAactivebets" table
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT matchid from activematchups WHERE teamone = 'Milwaukee Bucks' OR teamtwo = 'Milwaukee Bucks'"
+}
+--------    --------
+10-20 15:03:16: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 100
+--------    --------
+10-20 15:03:16: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 90
+--------    --------
+10-20 15:04:05: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 15:04:05: --------    -------- 
+[isMatchExist.js] Match 5813 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 15:04:05: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -176
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 15:04:05: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 15:04:07: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Milwaukee Bucks',
+	payout: 15.68,
+	profit: 5.68,
+	betid: 4534
+}
+--------    --------
+10-20 15:04:07: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 15:04:07: --------    -------- 
+Error adding bet to "NBAactivebets" table
+error: column "dateofbet" of relation "NBAactivebets" does not exist
+--------    --------
+10-20 15:04:07: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 90
+--------    --------
+10-20 15:04:07: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 80
+--------    --------
+10-20 15:05:14: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Milwaukee Bucks
+--------    --------
+10-20 15:05:14: --------    -------- 
+[isMatchExist.js] Match 5813 [Philadelphia 76ers vs Milwaukee Bucks] exists in the database
+--------    --------
+10-20 15:05:14: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -176
+Team ID: Milwaukee Bucks
+--------    --------
+10-20 15:05:14: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 15:05:16: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Milwaukee Bucks',
+	payout: 15.68,
+	profit: 5.68,
+	betid: 8893
+}
+--------    --------
+10-20 15:05:16: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 15:05:16: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 15:05:16: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 80
+--------    --------
+10-20 15:05:16: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 70
+--------    --------
+10-20 20:40:00: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-20 20:40:00: --------    -------- 
+[isMatchExist.js] Match 8617 [Arizona Cardinals vs New Orleans Saints] exists in the database
+--------    --------
+10-20 20:40:00: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 130
+Team ID: Arizona Cardinals
+--------    --------
+10-20 20:40:00: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 20:40:02: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Arizona Cardinals',
+	payout: 230,
+	profit: 130,
+	betid: 8977
+}
+--------    --------
+10-20 20:40:02: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 20:40:02: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 20:40:02: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 350
+--------    --------
+10-20 20:40:02: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 250
+--------    --------
+10-20 20:42:24: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 300
+Team: Arizona Cardinals
+--------    --------
+10-20 20:42:24: --------    -------- 
+[isMatchExist.js] Match 8617 [Arizona Cardinals vs New Orleans Saints] exists in the database
+--------    --------
+10-20 20:42:24: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 130
+Team ID: Arizona Cardinals
+--------    --------
+10-20 20:42:24: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-20 20:42:26: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 300,
+	teamid: 'Arizona Cardinals',
+	payout: 690,
+	profit: 390,
+	betid: 5748
+}
+--------    --------
+10-20 20:42:26: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-20 20:42:26: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-20 20:42:26: --------    -------- 
+User 208016830491525120 has enough money to bet 300 - Current Balance: 500000
+--------    --------
+10-20 20:42:26: --------    -------- 
+Successfully subtracted $300 dollars from user 208016830491525120. New Balance: 499700
+--------    --------
+10-21 01:44:01: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 01:44:01: --------    -------- 
+[isMatchExist.js] Match 5542 [Arizona Cardinals vs New Orleans Saints] exists in the database
+--------    --------
+10-21 01:44:01: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -136
+Team ID: Arizona Cardinals
+--------    --------
+10-21 01:44:01: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-21 01:44:02: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Arizona Cardinals',
+	payout: 173.53,
+	profit: 73.53,
+	betid: 2942
+}
+--------    --------
+10-21 01:44:02: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-21 01:44:02: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-21 01:44:03: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500220.6
+--------    --------
+10-21 01:44:03: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 500120
+--------    --------
+10-21 09:29:23: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 09:29:23: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:29:34: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 09:29:34: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:30:53: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 09:30:53: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:31:26: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 09:31:26: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:33:03: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+10-21 09:33:03: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-23 00:03:29: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Detroit Pistons
+--------    --------
+10-23 00:03:29: --------    -------- 
+[isMatchExist.js] Match 331 [Indiana Pacers vs Detroit Pistons] exists in the database
+--------    --------
+10-23 00:03:29: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -104
+Team ID: Detroit Pistons
+--------    --------
+10-23 00:03:29: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 00:03:30: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Detroit Pistons',
+	payout: 196.15,
+	profit: 96.15,
+	betid: 6760
+}
+--------    --------
+10-23 00:03:30: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-23 00:03:30: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-23 00:03:30: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 100
+--------    --------
+10-23 00:03:30: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 0
+--------    --------
+10-23 11:08:59: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:08:59: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-23 11:09:19: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:09:19: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:09:19: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:09:19: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:10:02: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:10:02: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:10:02: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:10:02: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:10:40: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:10:40: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:10:40: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:10:40: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:12:29: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:12:29: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:12:29: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:12:29: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:13:08: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:13:08: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:13:08: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:13:08: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:17:29: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:17:29: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:17:29: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:17:29: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:18:14: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:18:14: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:18:14: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:18:14: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:20:06: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:20:06: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:20:06: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:20:06: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:20:48: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:20:48: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:20:48: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:20:48: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:22:05: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:22:05: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:22:05: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:22:05: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:22:29: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:22:30: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:22:30: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:22:30: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:23:30: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Atlanta Falcons
+--------    --------
+10-23 11:23:30: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:23:30: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:23:30: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:24:30: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:24:30: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:24:30: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:24:30: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:48:29: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:48:29: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:48:29: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:48:29: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:48:32: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Atlanta Falcons',
+	payout: 13.33,
+	profit: 3.33,
+	betid: {}
+}
+--------    --------
+10-23 11:48:32: --------    -------- 
+Error adding bet to activebets table
+error: invalid input syntax for type bigint: "{}"
+--------    --------
+10-23 11:48:32: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500120
+--------    --------
+10-23 11:48:32: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500110
+--------    --------
+10-23 11:48:51: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Atlanta Falcons
+--------    --------
+10-23 11:48:51: --------    -------- 
+[isMatchExist.js] Match 4010 [Cincinnati Bengals vs Atlanta Falcons] exists in the database
+--------    --------
+10-23 11:48:51: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -300
+Team ID: Atlanta Falcons
+--------    --------
+10-23 11:48:51: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 11:48:53: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Atlanta Falcons',
+	payout: 13.33,
+	profit: 3.33,
+	betid: 8023
+}
+--------    --------
+10-23 11:48:53: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500110
+--------    --------
+10-23 11:48:53: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-23 11:48:53: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500100
+--------    --------
+10-23 11:48:53: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-23 20:37:20: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 30
+Team: Kansas City Chiefs
+--------    --------
+10-23 20:37:20: --------    -------- 
+[isMatchExist.js] Match 9846 [San Francisco 49ers vs Kansas City Chiefs] exists in the database
+--------    --------
+10-23 20:37:20: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 100
+Team ID: Kansas City Chiefs
+--------    --------
+10-23 20:37:21: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 20:37:23: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 30,
+	teamid: 'Kansas City Chiefs',
+	payout: 60,
+	profit: 30,
+	betid: 68
+}
+--------    --------
+10-23 20:37:23: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-23 20:37:23: --------    -------- 
+User 208016830491525120 has enough money to bet 30 - Current Balance: 500100
+--------    --------
+10-23 20:37:23: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-23 20:37:23: --------    -------- 
+Successfully subtracted $30 dollars from user 208016830491525120. New Balance: 500070
+--------    --------
+10-23 21:12:59: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 30
+Team: Kansas City Chiefs
+--------    --------
+10-23 21:12:59: --------    -------- 
+[isMatchExist.js] Match 9846 [San Francisco 49ers vs Kansas City Chiefs] exists in the database
+--------    --------
+10-23 21:12:59: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 100
+Team ID: Kansas City Chiefs
+--------    --------
+10-23 21:12:59: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-23 21:13:00: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 30,
+	teamid: 'Kansas City Chiefs',
+	payout: 60,
+	profit: 30,
+	betid: 7334
+}
+--------    --------
+10-23 21:13:00: --------    -------- 
+User 208016830491525120 has enough money to bet 30 - Current Balance: 500130
+--------    --------
+10-23 21:13:00: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-23 21:13:00: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-23 21:13:00: --------    -------- 
+Successfully subtracted $30 dollars from user 208016830491525120. New Balance: 500100
+--------    --------
+10-24 00:19:23: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Lakers
+--------    --------
+10-24 00:19:23: --------    -------- 
+Error: Error
+--------    --------
+10-24 00:19:42: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Los Angeles Lakers
+--------    --------
+10-24 00:19:42: --------    -------- 
+[isMatchExist.js] Match 4353 [Los Angeles Lakers vs Portland Trail Blazers] exists in the database
+--------    --------
+10-24 00:19:42: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -164
+Team ID: Los Angeles Lakers
+--------    --------
+10-24 00:19:42: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-24 00:19:43: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Los Angeles Lakers',
+	payout: 16.1,
+	profit: 6.1,
+	betid: 6318
+}
+--------    --------
+10-24 00:19:44: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-24 00:19:44: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 100
+--------    --------
+10-24 00:19:44: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-24 00:19:44: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 90
+--------    --------
+10-26 19:44:45: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Brooklyn Nets
+--------    --------
+10-26 19:44:45: --------    -------- 
+[isMatchExist.js] Match 5774 [Milwaukee Bucks vs Brooklyn Nets] exists in the database
+--------    --------
+10-26 19:44:45: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 138
+Team ID: Brooklyn Nets
+--------    --------
+10-26 19:44:45: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-26 19:44:55: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Brooklyn Nets
+--------    --------
+10-26 19:44:55: --------    -------- 
+[isMatchExist.js] Match 5774 [Milwaukee Bucks vs Brooklyn Nets] exists in the database
+--------    --------
+10-26 19:44:55: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 138
+Team ID: Brooklyn Nets
+--------    --------
+10-26 19:44:55: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-26 19:51:46: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Cleveland Cavaliers
+--------    --------
+10-26 19:51:46: --------    -------- 
+[isMatchExist.js] Match 9488 [Cleveland Cavaliers vs Orlando Magic] exists in the database
+--------    --------
+10-26 19:51:46: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 300
+Team ID: Cleveland Cavaliers
+--------    --------
+10-26 19:51:46: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-26 20:01:40: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Chicago Bulls
+--------    --------
+10-26 20:01:40: --------    -------- 
+[isMatchExist.js] Match 2974 [Chicago Bulls vs Indiana Pacers] exists in the database
+--------    --------
+10-26 20:01:40: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 245
+Team ID: Chicago Bulls
+--------    --------
+10-26 20:01:40: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-27 12:49:20: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Baltimore Ravens
+--------    --------
+10-27 12:49:20: --------    -------- 
+[isMatchExist.js] Match 4832 [Tampa Bay Buccaneers vs Baltimore Ravens] exists in the database
+--------    --------
+10-27 12:49:20: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -118
+Team ID: Baltimore Ravens
+--------    --------
+10-27 12:49:20: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-27 13:41:27: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Baltimore Ravens
+--------    --------
+10-27 13:41:27: --------    -------- 
+[isMatchExist.js] Match 4832 [Tampa Bay Buccaneers vs Baltimore Ravens] exists in the database
+--------    --------
+10-27 13:41:27: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -118
+Team ID: Baltimore Ravens
+--------    --------
+10-27 13:41:27: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-27 13:42:51: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Baltimore Ravens
+--------    --------
+10-27 13:42:51: --------    -------- 
+[isMatchExist.js] Match 4832 [Tampa Bay Buccaneers vs Baltimore Ravens] exists in the database
+--------    --------
+10-27 13:42:51: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -118
+Team ID: Baltimore Ravens
+--------    --------
+10-27 13:42:51: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-27 13:42:52: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Baltimore Ravens',
+	payout: 18.47,
+	profit: 8.47,
+	betid: 1959
+}
+--------    --------
+10-27 13:42:52: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500160
+--------    --------
+10-27 13:42:52: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-27 13:42:52: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500150
+--------    --------
+10-27 13:42:52: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-27 13:44:34: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Baltimore Ravens
+--------    --------
+10-27 13:44:34: --------    -------- 
+[isMatchExist.js] Match 4832 [Tampa Bay Buccaneers vs Baltimore Ravens] exists in the database
+--------    --------
+10-27 13:44:34: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -118
+Team ID: Baltimore Ravens
+--------    --------
+10-27 13:44:34: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-27 13:44:36: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Baltimore Ravens',
+	payout: 18.47,
+	profit: 8.47,
+	betid: 899
+}
+--------    --------
+10-27 13:44:36: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500160
+--------    --------
+10-27 13:44:36: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+10-27 13:44:36: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500150
+--------    --------
+10-27 13:44:36: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-28 08:12:55: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Dallas Mavericks
+--------    --------
+10-28 08:12:55: --------    -------- 
+[isMatchExist.js] Match 2393 [Brooklyn Nets vs Dallas Mavericks] exists in the database
+--------    --------
+10-28 08:12:55: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -134
+Team ID: Dallas Mavericks
+--------    --------
+10-28 08:12:55: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-28 08:12:57: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Dallas Mavericks',
+	payout: 34.93,
+	profit: 14.93,
+	betid: 1659
+}
+--------    --------
+10-28 08:12:57: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-28 08:12:57: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 771.68
+--------    --------
+10-28 08:12:57: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-28 08:12:57: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 751
+--------    --------
+10-28 08:13:12: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Brooklyn Nets
+--------    --------
+10-28 08:13:12: --------    -------- 
+[isMatchExist.js] Match 2393 [Brooklyn Nets vs Dallas Mavericks] exists in the database
+--------    --------
+10-28 08:13:12: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 114
+Team ID: Brooklyn Nets
+--------    --------
+10-28 08:13:12: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-28 08:13:13: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Brooklyn Nets',
+	payout: 42.8,
+	profit: 22.8,
+	betid: 8151
+}
+--------    --------
+10-28 08:13:14: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 785.93
+--------    --------
+10-28 08:13:14: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-28 08:13:14: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-28 08:13:14: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 765
+--------    --------
+10-28 08:14:32: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Brooklyn Nets
+--------    --------
+10-28 08:14:32: --------    -------- 
+[isMatchExist.js] Match 2393 [Brooklyn Nets vs Dallas Mavericks] exists in the database
+--------    --------
+10-28 08:14:32: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 114
+Team ID: Brooklyn Nets
+--------    --------
+10-28 08:14:32: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-28 08:14:34: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Brooklyn Nets',
+	payout: 42.8,
+	profit: 22.8,
+	betid: 298
+}
+--------    --------
+10-28 08:14:34: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-28 08:14:34: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 799.93
+--------    --------
+10-28 08:14:34: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-28 08:14:34: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 779
+--------    --------
+10-28 08:15:22: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Brooklyn Nets
+--------    --------
+10-28 08:15:22: --------    -------- 
+[isMatchExist.js] Match 2393 [Brooklyn Nets vs Dallas Mavericks] exists in the database
+--------    --------
+10-28 08:15:22: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 114
+Team ID: Brooklyn Nets
+--------    --------
+10-28 08:15:22: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-28 08:15:23: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Brooklyn Nets',
+	payout: 42.8,
+	profit: 22.8,
+	betid: 2745
+}
+--------    --------
+10-28 08:15:23: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-28 08:15:23: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 779
+--------    --------
+10-28 08:15:23: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-28 08:15:23: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 759
+--------    --------
+10-31 19:03:02: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Brooklyn Nets
+--------    --------
+10-31 19:03:02: --------    -------- 
+[isMatchExist.js] Match 4488 [Brooklyn Nets vs Indiana Pacers] exists in the database
+--------    --------
+10-31 19:03:02: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -310
+Team ID: Brooklyn Nets
+--------    --------
+10-31 19:03:02: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-31 19:03:04: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Brooklyn Nets
+--------    --------
+10-31 19:03:04: --------    -------- 
+[isMatchExist.js] Match 4488 [Brooklyn Nets vs Indiana Pacers] exists in the database
+--------    --------
+10-31 19:03:04: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -310
+Team ID: Brooklyn Nets
+--------    --------
+10-31 19:03:04: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+10-31 19:03:12: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Brooklyn Nets',
+	payout: 13.23,
+	profit: 3.23,
+	betid: 7010
+}
+--------    --------
+10-31 19:03:12: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 759
+--------    --------
+10-31 19:03:12: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Brooklyn Nets',
+	payout: 13.23,
+	profit: 3.23,
+	betid: 1440
+}
+--------    --------
+10-31 19:03:12: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-31 19:03:12: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 749
+--------    --------
+10-31 19:03:12: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-31 19:03:12: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+10-31 19:03:12: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+10-31 19:03:12: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 749
+--------    --------
+10-31 19:03:12: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 739
+--------    --------
+11-01 12:19:58: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Los Angeles Rams
+--------    --------
+11-01 12:19:58: --------    -------- 
+[isMatchExist.js] Match 4706 [Tampa Bay Buccaneers vs Los Angeles Rams] exists in the database
+--------    --------
+11-01 12:19:58: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 124
+Team ID: Los Angeles Rams
+--------    --------
+11-01 12:19:58: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-01 12:20:08: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Los Angeles Rams',
+	payout: 22.4,
+	profit: 12.4,
+	betid: 5736
+}
+--------    --------
+11-01 12:20:08: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-01 12:20:08: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500150
+--------    --------
+11-01 12:20:08: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-01 12:20:08: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500140
+--------    --------
+11-04 04:02:43: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Cincinnati Bengals
+--------    --------
+11-04 04:02:43: --------    -------- 
+[isMatchExist.js] Match 3847 [Cincinnati Bengals vs Carolina Panthers] exists in the database
+--------    --------
+11-04 04:02:43: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -335
+Team ID: Cincinnati Bengals
+--------    --------
+11-04 04:02:43: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-04 04:03:01: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-04 04:03:27: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Cincinnati Bengals
+--------    --------
+11-04 04:03:27: --------    -------- 
+[isMatchExist.js] Match 3847 [Cincinnati Bengals vs Carolina Panthers] exists in the database
+--------    --------
+11-04 04:03:27: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -335
+Team ID: Cincinnati Bengals
+--------    --------
+11-04 04:03:27: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-04 04:03:28: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-04 04:04:28: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Cincinnati Bengals
+--------    --------
+11-04 04:04:28: --------    -------- 
+[isMatchExist.js] Match 3847 [Cincinnati Bengals vs Carolina Panthers] exists in the database
+--------    --------
+11-04 04:04:28: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -335
+Team ID: Cincinnati Bengals
+--------    --------
+11-04 04:04:28: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-04 04:04:29: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-04 04:14:52: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Cincinnati Bengals
+--------    --------
+11-04 04:14:52: --------    -------- 
+[isMatchExist.js] Match 3847 [Cincinnati Bengals vs Carolina Panthers] exists in the database
+--------    --------
+11-04 04:14:52: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -335
+Team ID: Cincinnati Bengals
+--------    --------
+11-04 04:14:52: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-04 04:14:55: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Cincinnati Bengals',
+	payout: 129.85,
+	profit: 29.85,
+	betid: 7734
+}
+--------    --------
+11-04 04:14:55: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-04 04:14:55: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500210.3
+--------    --------
+11-04 04:14:55: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-04 04:14:55: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 500110
+--------    --------
+11-04 04:24:57: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Green Bay Packers
+--------    --------
+11-04 04:24:57: --------    -------- 
+[isMatchExist.js] Match 9166 [Detroit Lions vs Green Bay Packers] exists in the database
+--------    --------
+11-04 04:24:57: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -196
+Team ID: Green Bay Packers
+--------    --------
+11-04 04:24:57: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-04 04:25:06: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 04:11:47: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Los Angeles Rams
+--------    --------
+11-05 04:11:47: --------    -------- 
+[isMatchExist.js] Match 1047 [Tampa Bay Buccaneers vs Los Angeles Rams] exists in the database
+--------    --------
+11-05 04:11:47: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 132
+Team ID: Los Angeles Rams
+--------    --------
+11-05 04:11:47: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:11:54: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Los Angeles Rams',
+	payout: 23.2,
+	profit: 13.2,
+	betid: 5191
+}
+--------    --------
+11-05 04:11:54: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500110
+--------    --------
+11-05 04:11:54: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 04:11:54: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 04:11:54: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500100
+--------    --------
+11-05 04:12:52: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:12:52: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:12:52: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:12:52: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:12:54: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'New England Patriots',
+	payout: 13.92,
+	profit: 3.92,
+	betid: 9410
+}
+--------    --------
+11-05 04:12:54: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 04:12:54: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500110
+--------    --------
+11-05 04:12:54: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 04:12:54: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500100
+--------    --------
+11-05 04:13:47: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:13:47: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:13:47: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:13:47: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:13:50: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'New England Patriots',
+	payout: 13.92,
+	profit: 3.92,
+	betid: 5761
+}
+--------    --------
+11-05 04:13:50: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 500110
+--------    --------
+11-05 04:13:50: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 04:13:50: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 04:13:50: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 500100
+--------    --------
+11-05 04:28:38: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:28:38: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:28:38: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:28:38: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:29:40: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:29:40: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:29:40: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:29:40: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:30:28: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:30:28: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:30:28: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:30:28: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:42:14: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:42:14: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:42:14: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:42:14: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:43:37: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: New England Patriots
+--------    --------
+11-05 04:43:37: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:43:37: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:43:37: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:50:54: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:50:54: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:50:54: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:52:14: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:52:14: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:52:14: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:52:14: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:52:15: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'New England Patriots',
+	payout: 139.22,
+	profit: 39.22,
+	betid: 7628
+}
+--------    --------
+11-05 04:52:15: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500110
+--------    --------
+11-05 04:52:15: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 04:52:15: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 04:52:15: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 500010
+--------    --------
+11-05 04:54:45: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:54:45: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:54:45: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:54:45: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:54:49: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 04:55:13: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:55:13: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:55:13: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:55:13: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:55:14: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'New England Patriots',
+	payout: 139.22,
+	profit: 39.22,
+	betid: 692
+}
+--------    --------
+11-05 04:55:14: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 04:55:14: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500110
+--------    --------
+11-05 04:55:14: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 04:55:14: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 500010
+--------    --------
+11-05 04:55:26: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:55:26: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:55:27: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:55:27: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:55:28: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 04:55:59: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:55:59: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:55:59: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:55:59: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 04:56:01: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 04:56:05: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 04:56:05: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 04:56:05: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 04:56:05: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:00:00: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 05:00:00: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 05:00:00: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 05:00:00: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:00:10: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 05:02:25: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: New England Patriots
+--------    --------
+11-05 05:02:25: --------    -------- 
+[isMatchExist.js] Match 1837 [New England Patriots vs Indianapolis Colts] exists in the database
+--------    --------
+11-05 05:02:25: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -255
+Team ID: New England Patriots
+--------    --------
+11-05 05:02:25: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:02:47: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 05:41:49: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Houston Rockets
+--------    --------
+11-05 05:41:49: --------    -------- 
+[isMatchExist.js] Match 6105 [Minnesota Timberwolves vs Houston Rockets] exists in the database
+--------    --------
+11-05 05:41:49: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 285
+Team ID: Houston Rockets
+--------    --------
+11-05 05:41:49: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:41:56: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-05 05:55:36: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Houston Rockets
+--------    --------
+11-05 05:55:36: --------    -------- 
+[isMatchExist.js] Match 6105 [Minnesota Timberwolves vs Houston Rockets] exists in the database
+--------    --------
+11-05 05:55:36: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 285
+Team ID: Houston Rockets
+--------    --------
+11-05 05:55:36: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:55:37: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Houston Rockets',
+	payout: 38.5,
+	profit: 28.5,
+	betid: 3250
+}
+--------    --------
+11-05 05:55:37: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 759
+--------    --------
+11-05 05:55:37: --------    -------- 
+Error adding bet to activebets table
+error: INSERT has more target columns than expressions
+--------    --------
+11-05 05:55:37: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 749
+--------    --------
+11-05 05:56:21: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Houston Rockets
+--------    --------
+11-05 05:56:21: --------    -------- 
+[isMatchExist.js] Match 6105 [Minnesota Timberwolves vs Houston Rockets] exists in the database
+--------    --------
+11-05 05:56:21: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 285
+Team ID: Houston Rockets
+--------    --------
+11-05 05:56:21: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 05:56:22: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Houston Rockets',
+	payout: 38.5,
+	profit: 28.5,
+	betid: 5329
+}
+--------    --------
+11-05 05:56:22: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 749
+--------    --------
+11-05 05:56:22: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 05:56:22: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 739
+--------    --------
+11-05 05:56:22: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 06:01:09: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Phoenix Suns
+--------    --------
+11-05 06:01:09: --------    -------- 
+[isMatchExist.js] Match 7477 [Phoenix Suns vs Portland Trail Blazers] exists in the database
+--------    --------
+11-05 06:01:09: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -450
+Team ID: Phoenix Suns
+--------    --------
+11-05 06:01:09: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 06:01:10: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Phoenix Suns',
+	payout: 122.22,
+	profit: 22.22,
+	betid: 4317
+}
+--------    --------
+11-05 06:01:11: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 739
+--------    --------
+11-05 06:01:11: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 06:01:11: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 06:01:11: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 639
+--------    --------
+11-05 10:24:54: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Jacksonville Jaguars
+--------    --------
+11-05 10:24:54: --------    -------- 
+[isMatchExist.js] Match 2794 [Jacksonville Jaguars vs Las Vegas Raiders] exists in the database
+--------    --------
+11-05 10:24:54: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 116
+Team ID: Jacksonville Jaguars
+--------    --------
+11-05 10:24:54: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-05 10:24:55: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Jacksonville Jaguars',
+	payout: 216,
+	profit: 116,
+	betid: 5302
+}
+--------    --------
+11-05 10:24:55: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-05 10:24:55: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500110
+--------    --------
+11-05 10:24:55: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-05 10:24:55: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 500010
+--------    --------
+11-11 14:23:45: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Chargers
+--------    --------
+11-11 14:23:45: --------    -------- 
+[isMatchExist.js] Match 8199 [San Francisco 49ers vs Los Angeles Chargers] exists in the database
+--------    --------
+11-11 14:23:45: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 245
+Team ID: Los Angeles Chargers
+--------    --------
+11-11 14:23:45: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-11 14:23:54: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-11 14:24:05: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Philadelphia Eagles
+--------    --------
+11-11 14:24:05: --------    -------- 
+[isMatchExist.js] Match 6509 [Philadelphia Eagles vs Washington Commanders] exists in the database
+--------    --------
+11-11 14:24:05: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -510
+Team ID: Philadelphia Eagles
+--------    --------
+11-11 14:24:05: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-11 14:24:06: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-11 19:48:20: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Memphis Grizzlies
+--------    --------
+11-11 19:48:20: --------    -------- 
+[isMatchExist.js] Match 716 [Memphis Grizzlies vs Minnesota Timberwolves] exists in the database
+--------    --------
+11-11 19:48:20: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -168
+Team ID: Memphis Grizzlies
+--------    --------
+11-11 19:48:20: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-11 19:48:22: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-22 07:59:49: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Phoenix Suns
+--------    --------
+11-22 07:59:49: --------    -------- 
+[isMatchExist.js] Match 3180 [Phoenix Suns vs Los Angeles Lakers] exists in the database
+--------    --------
+11-22 07:59:49: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -330
+Team ID: Phoenix Suns
+--------    --------
+11-22 07:59:49: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-22 07:59:52: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Phoenix Suns',
+	payout: 26.06,
+	profit: 6.06,
+	betid: 9705
+}
+--------    --------
+11-22 07:59:52: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 639
+--------    --------
+11-22 07:59:52: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-22 07:59:52: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 619
+--------    --------
+11-22 07:59:52: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-22 08:03:24: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 20
+Team: Phoenix Suns
+--------    --------
+11-22 08:03:24: --------    -------- 
+[isMatchExist.js] Match 3841 [Phoenix Suns vs Los Angeles Lakers] exists in the database
+--------    --------
+11-22 08:03:24: --------    -------- 
+Betslip Matchup Information Located:
+Odds: -330
+Team ID: Phoenix Suns
+--------    --------
+11-22 08:03:24: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-22 08:03:25: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Phoenix Suns',
+	payout: 26.06,
+	profit: 6.06,
+	betid: 1435
+}
+--------    --------
+11-22 08:03:25: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-22 08:03:25: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 619
+--------    --------
+11-22 08:03:25: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-22 08:03:25: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 599
+--------    --------
+11-24 16:10:37: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 9000000000000
+Team: Arizona Cardinals
+--------    --------
+11-24 16:10:37: --------    -------- 
+[isMatchExist.js] Match 1746 [Arizona Cardinals vs Los Angeles Chargers] exists in the database
+--------    --------
+11-24 16:10:37: --------    -------- 
+Error: Error
+--------    --------
+11-24 16:10:41: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+11-24 16:10:41: --------    -------- 
+[isMatchExist.js] Match 1746 [Arizona Cardinals vs Los Angeles Chargers] exists in the database
+--------    --------
+11-24 16:10:41: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 152
+Team ID: Arizona Cardinals
+--------    --------
+11-24 16:10:41: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-24 16:10:43: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-24 16:11:31: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Arizona Cardinals
+--------    --------
+11-24 16:11:31: --------    -------- 
+[isMatchExist.js] Match 1746 [Arizona Cardinals vs Los Angeles Chargers] exists in the database
+--------    --------
+11-24 16:11:31: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 152
+Team ID: Arizona Cardinals
+--------    --------
+11-24 16:11:31: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-24 16:14:35: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 10
+Team: Arizona Cardinals
+--------    --------
+11-24 16:14:35: --------    -------- 
+[isMatchExist.js] Match 1746 [Arizona Cardinals vs Los Angeles Chargers] exists in the database
+--------    --------
+11-24 16:14:35: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 152
+Team ID: Arizona Cardinals
+--------    --------
+11-24 16:14:35: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-24 16:14:38: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-24 17:03:00: --------    -------- 
+User FENIX (208016830491525120) is getting a bet ready!
+Bet Slip:
+Amount: 100
+Team: Los Angeles Clippers
+--------    --------
+11-24 17:03:00: --------    -------- 
+[isMatchExist.js] Match 5010 [Los Angeles Clippers vs Denver Nuggets] exists in the database
+--------    --------
+11-24 17:03:00: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 118
+Team ID: Los Angeles Clippers
+--------    --------
+11-24 17:03:00: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-24 17:03:02: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Los Angeles Clippers',
+	payout: 218,
+	profit: 118,
+	betid: 2590
+}
+--------    --------
+11-24 17:03:02: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 625.06
+--------    --------
+11-24 17:03:02: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-24 17:03:02: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-24 17:03:02: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 525
+--------    --------
+11-25 03:14:38: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:14:38: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:15:32: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:15:32: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:15:51: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:15:51: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:16:45: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:16:45: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:17:47: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:17:47: --------    -------- 
+[isMatchExist.js] Match 198 [Washington Commanders vs Atlanta Falcons] exists in the database
+--------    --------
+11-25 03:17:47: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 166
+Team ID: Atlanta Falcons
+--------    --------
+11-25 03:17:47: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-25 03:17:50: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Atlanta Falcons',
+	payout: 266,
+	profit: 166,
+	betid: 3077
+}
+--------    --------
+11-25 03:17:50: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-25 03:17:50: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500010
+--------    --------
+11-25 03:17:50: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-25 03:17:50: --------    -------- 
+Error adding bet to activebets table
+ReferenceError: isSilent is not defined
+--------    --------
+11-25 03:17:50: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 499910
+--------    --------
+11-25 03:21:23: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":100,"matchupId":198}
+11-25 03:21:23: --------    -------- 
+[isMatchExist.js] Match 198 [Washington Commanders vs Atlanta Falcons] exists in the database
+--------    --------
+11-25 03:21:23: --------    -------- 
+Betslip Matchup Information Located:
+Odds: 166
+Team ID: Atlanta Falcons
+--------    --------
+11-25 03:21:23: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-25 03:21:27: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 100,
+	teamid: 'Atlanta Falcons',
+	payout: 266,
+	profit: 166,
+	betid: 6204
+}
+--------    --------
+11-25 03:21:27: --------    -------- 
+User 208016830491525120 has enough money to bet 100 - Current Balance: 500010
+--------    --------
+11-25 03:21:27: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-25 03:21:27: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-25 03:21:27: --------    -------- 
+Successfully subtracted $100 dollars from user 208016830491525120. New Balance: 499910
+--------    --------
+11-25 13:14:09: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Atlanta Falcons","amount":20,"matchupId":2406}
+11-25 13:14:09: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-25 13:14:11: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Atlanta Falcons',
+	payout: 53.2,
+	profit: 33.2,
+	betid: 4701
+}
+--------    --------
+11-25 13:14:11: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 500010
+--------    --------
+11-25 13:14:11: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-25 13:14:11: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-25 13:14:11: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 499990
+--------    --------
+11-28 18:41:50: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Washington Wizards","amount":10,"matchupId":8365}
+11-28 18:41:50: --------    -------- 
+[object Object]
+--------    --------
+11-28 18:43:41: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Boston Celtics","amount":10,"matchupId":5055}
+11-28 18:43:41: --------    -------- 
+[object Object]
+--------    --------
+11-28 18:44:06: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Boston Celtics","amount":10,"matchupId":5055}
+11-28 18:44:06: --------    -------- 
+Started bet confirmation timer for 208016830491525120
+--------    --------
+11-28 18:44:09: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Boston Celtics',
+	payout: 11.69,
+	profit: 1.69,
+	betid: 4256
+}
+--------    --------
+11-28 18:44:09: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-28 18:44:09: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 525
+--------    --------
+11-28 18:44:09: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-28 18:44:09: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 515
+--------    --------
+11-30 04:51:56: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 04:51:56: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:53:18: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 04:53:18: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:55:03: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 04:55:03: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:59:02: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 04:59:02: --------    -------- 
+[object Object]
+--------    --------
+11-30 05:02:46: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 05:02:47: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:30:50: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 14:31:50: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:32:29: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 14:33:40: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 14:33:40: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:34:13: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 14:34:13: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:35:04: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 14:35:04: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:36:29: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 15:58:43: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 15:58:43: --------    -------- 
+[object Object]
+--------    --------
+11-30 15:59:37: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 15:59:37: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:01:15: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:01:15: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:02:21: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:02:21: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:07:00: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:07:01: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:08:15: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:08:21: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Sacramento Kings',
+	payout: 15.38,
+	profit: 5.38,
+	betid: 8684
+}
+--------    --------
+11-30 16:08:21: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 515
+--------    --------
+11-30 16:08:21: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-30 16:08:21: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-30 16:08:21: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 505
+--------    --------
+11-30 16:08:57: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:09:01: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-30 16:09:33: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:09:35: --------    -------- 
+Betslip cancelled for 208016830491525120
+--------    --------
+11-30 16:09:53: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:09:55: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Sacramento Kings',
+	payout: 15.38,
+	profit: 5.38,
+	betid: 7963
+}
+--------    --------
+11-30 16:09:55: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-30 16:09:55: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 515
+--------    --------
+11-30 16:09:55: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-30 16:09:55: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 505
+--------    --------
+11-30 16:11:30: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:14:09: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:17:01: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:23:08: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:23:49: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:24:14: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:25:18: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:25:59: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:29:46: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Sacramento Kings","amount":10,"matchupId":3537}
+11-30 16:50:33: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Las Vegas Raiders","amount":20,"matchupId":6034}
+11-30 16:50:36: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 20,
+	teamid: 'Las Vegas Raiders',
+	payout: 41.6,
+	profit: 21.6,
+	betid: 189
+}
+--------    --------
+11-30 16:50:36: --------    -------- 
+User 208016830491525120 has enough money to bet 20 - Current Balance: 499990
+--------    --------
+11-30 16:50:36: --------    -------- 
+Storing betslip into database - activebets
+Data: null
+Betslip: [object Object]
+--------    --------
+11-30 16:50:36: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-30 16:50:36: --------    -------- 
+Successfully subtracted $20 dollars from user 208016830491525120. New Balance: 499970
+--------    --------
+11-30 16:59:33: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Indiana Pacers","amount":20,"matchupId":3537}
+11-30 16:59:33: --------    -------- 
+[object Object]
+--------    --------
+11-30 17:00:15: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Indiana Pacers","amount":10,"matchupId":3537}
+11-30 17:00:43: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Boston Celtics","amount":10,"matchupId":7126}
+11-30 17:00:47: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Boston Celtics',
+	payout: 12.5,
+	profit: 2.5,
+	teamEmoji: {
+		animated: false,
+		name: 'celtics',
+		id: '846887190750691339',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 25,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 3304
+}
+--------    --------
+11-30 17:00:47: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+11-30 17:00:47: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 515
+--------    --------
+11-30 17:00:47: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+11-30 17:00:47: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 505
+--------    --------
+12-01 21:37:47: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Chicago Bears","amount":10,"matchupId":5100}
+12-01 21:37:47: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:38:17: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Chicago Bears","amount":10,"matchupId":5100}
+12-01 21:38:17: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:39:29: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Chicago Bears","amount":10,"matchupId":5100}
+12-01 21:39:29: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:40:07: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Chicago Bears","amount":10,"matchupId":5100}
+12-03 12:53:01: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Toronto Raptors","amount":10,"matchupId":5337}
+12-03 12:53:01: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:53:48: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Golden State Warriors","amount":40,"matchupId":8826}
+12-03 12:53:48: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:55:18: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Golden State Warriors","amount":30,"matchupId":8826}
+12-03 12:55:18: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:55:41: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Golden State Warriors","amount":30,"matchupId":8826}
+12-03 12:55:41: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:56:09: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Golden State Warriors","amount":30,"matchupId":8826}
+12-03 12:56:09: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:56:35: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Golden State Warriors","amount":30,"matchupId":8826}
+12-03 19:44:25: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Toronto Raptors","amount":10,"matchupId":7885}
+12-04 16:00:28: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Brooklyn Nets","amount":10,"matchupId":8481}
+12-04 16:00:29: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Brooklyn Nets',
+	payout: 22.6,
+	profit: 12.6,
+	teamEmoji: {
+		animated: false,
+		name: 'nets',
+		id: '846887190599827496',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 25,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 1234
+}
+--------    --------
+12-04 16:00:29: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+12-04 16:00:29: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 505
+--------    --------
+12-04 16:00:29: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+12-04 16:00:29: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 495
+--------    --------
+12-04 16:00:30: --------    -------- 
+Error adding bet to activebets table
+DiscordAPIError: Invalid Form Body
+embeds[0].thumbnail.url: Scheme "undefined" is not supported. Scheme must be one of ('http', 'https').
+--------    --------
+12-04 16:01:35: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Brooklyn Nets","amount":10,"matchupId":8481}
+12-04 16:01:35: --------    -------- 
+[object Object]
+--------    --------
+12-04 16:02:08: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Brooklyn Nets","amount":10,"matchupId":8481}
+12-04 16:02:11: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Brooklyn Nets',
+	payout: 22.6,
+	profit: 12.6,
+	teamEmoji: {
+		animated: false,
+		name: 'nets',
+		id: '846887190599827496',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 25,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 4639
+}
+--------    --------
+12-04 16:02:11: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 495
+--------    --------
+12-04 16:02:11: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+12-04 16:02:11: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 485
+--------    --------
+12-04 16:02:11: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+12-04 16:02:11: --------    -------- 
+Error adding bet to activebets table
+DiscordAPIError: Invalid Form Body
+embeds[0].thumbnail.url: Scheme "undefined" is not supported. Scheme must be one of ('http', 'https').
+--------    --------
+12-05 19:32:07: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Los Angeles Lakers","amount":10,"matchupId":9641}
+12-05 19:32:09: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Los Angeles Lakers',
+	payout: 25.2,
+	profit: 15.2,
+	teamEmoji: {
+		animated: false,
+		name: 'lakers',
+		id: '846896042229891122',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 25,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 9121
+}
+--------    --------
+12-05 19:32:09: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+12-05 19:32:09: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 485
+--------    --------
+12-05 19:32:09: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+12-05 19:32:09: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 475
+--------    --------
+12-20 17:50:21: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Chicago Bulls","amount":30,"matchupId":6649}
+01-17 18:46:46: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Milwaukee Bucks","amount":30,"matchupId":8984}
+01-17 18:46:56: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 30,
+	teamid: 'Milwaukee Bucks',
+	payout: 55,
+	profit: 25,
+	teamEmoji: {
+		animated: false,
+		name: 'bucks',
+		id: '931367923371614268',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 26,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 9064
+}
+--------    --------
+01-17 18:47:52: --------    -------- 
+User 208016830491525120 has enough money to bet 30 - Current Balance: 485
+--------    --------
+01-17 18:47:52: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+01-17 18:47:52: --------    -------- 
+Successfully added betslip into the database.
+--------    --------
+01-17 18:47:52: --------    -------- 
+Successfully subtracted $30 dollars from user 208016830491525120. New Balance: 455
+--------    --------
+01-17 20:21:08: --------    -------- 
+New Betslip Created
+--------    -------- {"user":"208016830491525120","team":"Brooklyn Nets","amount":10,"matchupId":567}
+01-17 20:21:15: --------    -------- 
+Betslip confirmed for 208016830491525120
+{
+	userid: '208016830491525120',
+	amount: 10,
+	teamid: 'Brooklyn Nets',
+	payout: 14.76,
+	profit: 4.76,
+	teamEmoji: {
+		animated: false,
+		name: 'nets',
+		id: '846887190599827496',
+		guild: {
+			id: '777353407383339038',
+			name: 'FENIX Coding Workshop',
+			icon: '429422cc1c360acf0d38a4b08f2fff0d',
+			features: [
+				'NEWS',
+				'COMMUNITY',
+				'APPLICATION_COMMAND_PERMISSIONS_V2'
+			],
+			commands: {
+				permissions: {
+					manager: "[Circular]",
+					guild: "[Circular]",
+					guildId: '777353407383339038',
+					commandId: null
+				},
+				guild: "[Circular]"
+			},
+			members: {
+				guild: "[Circular]"
+			},
+			channels: {
+				guild: "[Circular]"
+			},
+			bans: {
+				guild: "[Circular]"
+			},
+			roles: {
+				guild: "[Circular]"
+			},
+			presences: {},
+			voiceStates: {
+				guild: "[Circular]"
+			},
+			stageInstances: {
+				guild: "[Circular]"
+			},
+			invites: {
+				guild: "[Circular]"
+			},
+			scheduledEvents: {
+				guild: "[Circular]"
+			},
+			available: true,
+			shardId: 0,
+			splash: null,
+			banner: null,
+			description: null,
+			verificationLevel: 'LOW',
+			vanityURLCode: null,
+			nsfwLevel: 'DEFAULT',
+			premiumSubscriptionCount: 0,
+			discoverySplash: null,
+			memberCount: 26,
+			large: false,
+			premiumProgressBarEnabled: false,
+			applicationId: null,
+			afkTimeout: 300,
+			afkChannelId: null,
+			systemChannelId: '1017595727855243364',
+			premiumTier: 'NONE',
+			explicitContentFilter: 'ALL_MEMBERS',
+			mfaLevel: 'NONE',
+			joinedTimestamp: 1654540700903,
+			defaultMessageNotifications: 'ONLY_MENTIONS',
+			systemChannelFlags: {
+				bitfield: 0
+			},
+			maximumMembers: 500000,
+			maximumPresences: null,
+			approximateMemberCount: null,
+			approximatePresenceCount: null,
+			vanityURLUses: null,
+			rulesChannelId: '1011298045826175046',
+			publicUpdatesChannelId: '1011298045826175046',
+			preferredLocale: 'en-US',
+			ownerId: '208016830491525120',
+			emojis: {
+				guild: "[Circular]"
+			},
+			stickers: {
+				guild: "[Circular]"
+			}
+		},
+		requiresColons: true,
+		managed: false,
+		available: true,
+		_roles: [],
+		author: null
+	},
+	betid: 6736
+}
+--------    --------
+01-17 20:21:15: --------    -------- 
+User 208016830491525120 has enough money to bet 10 - Current Balance: 485
+--------    --------
+01-17 20:21:15: --------    -------- 
+Successfully subtracted $10 dollars from user 208016830491525120. New Balance: 475
+--------    --------
+01-17 20:21:15: --------    -------- 
+Storing betslip into database - "NBAactivebets"
+Data: null
+Betslip: [object Object]
+--------    --------
+01-17 20:21:15: --------    -------- 
+Successfully added betslip into the database.
+--------    --------

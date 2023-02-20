@@ -1,0 +1,228 @@
+10-02 10:43:30: - Logging - 
+Error: Error
+10-02 10:59:23: - Logging - 
+Error: Error
+10-02 11:06:48: - Logging - 
+Error: Error
+10-02 16:53:45: - Logging - 
+Error: DiscordAPIError: Interaction has already been acknowledged.
+10-02 16:54:29: - Logging - 
+Error: Error
+10-02 16:54:56: - Logging - 
+Error: Error
+10-02 21:57:54: - Logging - 
+Error: error: invalid input syntax for type bigint: "NaN"
+10-02 21:58:55: - Logging - 
+Error: error: invalid input syntax for type bigint: "NaN"
+10-03 16:09:13: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM activematchups WHERE teamone = 'Los Angeles Rams' OR teamtwo = 'Los Angeles Rams'"
+}
+10-03 16:09:53: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM activematchups WHERE teamone = 'Los Angeles Rams' OR teamtwo = 'Los Angeles Rams'"
+}
+10-17 10:44:30: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-19 14:01:49: --------    -------- 
+Error: Error
+--------    --------
+10-19 14:02:49: --------    -------- 
+Error: Error
+--------    --------
+10-19 18:51:04: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-19 18:52:17: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 12:08:47: --------    -------- 
+Error: Error
+--------    --------
+10-20 12:13:50: --------    -------- 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Milwaukee Bucks' OR teamtwo = 'Milwaukee Bucks' AND dateofmatchup = '10/20/2022'"
+}
+--------    --------
+10-20 13:07:12: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 13:08:52: --------    -------- 
+Error: TypeError: Cannot read properties of undefined (reading 'payout')
+--------    --------
+10-20 14:19:20: --------    -------- 
+Error: Error
+--------    --------
+10-20 14:29:13: --------    -------- 
+Error: QueryResultError {
+    code: queryResultErrorCode.multiple
+    message: "Multiple rows were not expected."
+    received: 2
+    query: "SELECT * FROM currency WHERE userid = '208016830491525120'"
+}
+--------    --------
+10-20 14:29:56: --------    -------- 
+Error: Error
+--------    --------
+10-20 15:02:10: --------    -------- 
+Error: Error
+--------    --------
+10-20 15:03:16: --------    -------- 
+Error adding bet to "NBAactivebets" table
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT matchid from activematchups WHERE teamone = 'Milwaukee Bucks' OR teamtwo = 'Milwaukee Bucks'"
+}
+--------    --------
+10-20 15:04:07: --------    -------- 
+Error adding bet to "NBAactivebets" table
+error: column "dateofbet" of relation "NBAactivebets" does not exist
+--------    --------
+10-21 09:29:23: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:29:34: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:30:53: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:31:26: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-21 09:33:03: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-23 11:08:59: --------    -------- 
+Error: error: invalid input syntax for type bigint: "NaN"
+--------    --------
+10-23 11:48:32: --------    -------- 
+Error adding bet to activebets table
+error: invalid input syntax for type bigint: "{}"
+--------    --------
+10-24 00:19:23: --------    -------- 
+Error: Error
+--------    --------
+11-05 05:55:37: --------    -------- 
+Error adding bet to activebets table
+error: INSERT has more target columns than expressions
+--------    --------
+11-24 16:10:37: --------    -------- 
+Error: Error
+--------    --------
+11-25 03:14:38: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:15:32: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:15:51: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:16:45: --------    -------- 
+[object Object]
+--------    --------
+11-25 03:17:50: --------    -------- 
+Error adding bet to activebets table
+ReferenceError: isSilent is not defined
+--------    --------
+11-28 18:41:50: --------    -------- 
+[object Object]
+--------    --------
+11-28 18:43:41: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:51:56: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:53:18: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:55:03: --------    -------- 
+[object Object]
+--------    --------
+11-30 04:59:02: --------    -------- 
+[object Object]
+--------    --------
+11-30 05:02:47: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:31:50: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:33:40: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:34:13: --------    -------- 
+[object Object]
+--------    --------
+11-30 14:35:04: --------    -------- 
+[object Object]
+--------    --------
+11-30 15:58:43: --------    -------- 
+[object Object]
+--------    --------
+11-30 15:59:37: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:01:15: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:02:21: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:07:01: --------    -------- 
+[object Object]
+--------    --------
+11-30 16:59:33: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:37:47: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:38:17: --------    -------- 
+[object Object]
+--------    --------
+12-01 21:39:29: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:53:01: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:53:48: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:55:18: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:55:41: --------    -------- 
+[object Object]
+--------    --------
+12-03 12:56:09: --------    -------- 
+[object Object]
+--------    --------
+12-04 16:00:30: --------    -------- 
+Error adding bet to activebets table
+DiscordAPIError: Invalid Form Body
+embeds[0].thumbnail.url: Scheme "undefined" is not supported. Scheme must be one of ('http', 'https').
+--------    --------
+12-04 16:01:35: --------    -------- 
+[object Object]
+--------    --------
+12-04 16:02:11: --------    -------- 
+Error adding bet to activebets table
+DiscordAPIError: Invalid Form Body
+embeds[0].thumbnail.url: Scheme "undefined" is not supported. Scheme must be one of ('http', 'https').
+--------    --------

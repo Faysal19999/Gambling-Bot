@@ -1,0 +1,381 @@
+(node:2132689) DeprecationWarning: Passing strings for MessageEmbed#setFooter is deprecated. Pass a sole object instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+Error: listen EADDRINUSE: address already in use :::3003
+    at Server.setupListenHandle [as _listen2] (node:net:1468:16)
+    at listenInCluster (node:net:1516:12)
+    at Server.listen (node:net:1604:7)
+    at Function.listen (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/express/lib/application.js:635:24)
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/Pluto.mjs:73:5
+    at ModuleJob.run (node:internal/modules/esm/module_job:194:25) {
+  code: 'EADDRINUSE',
+  errno: -98,
+  syscall: 'listen',
+  address: '::',
+  port: 3003
+}
+[ERROR] Encountered error on chat input command "placebetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/placeBetSlash.js" error: relation "nbaactivematchups" does not exist
+    at Parser.parseErrorMessage (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+  length: 116,
+  severity: 'ERROR',
+  code: '42P01',
+  detail: undefined,
+  hint: undefined,
+  position: '15',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '1381',
+  routine: 'parserOpenTable'
+}
+[ERROR] Encountered error on chat input command "placebetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/placeBetSlash.js" error: relation "nbaactivematchups" does not exist
+    at Parser.parseErrorMessage (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+  length: 116,
+  severity: 'ERROR',
+  code: '42P01',
+  detail: undefined,
+  hint: undefined,
+  position: '15',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '1381',
+  routine: 'parserOpenTable'
+}
+[ERROR] Encountered error on chat input command "placebetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/placeBetSlash.js" error: relation "nbaactivematchups" does not exist
+    at Parser.parseErrorMessage (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:287:98)
+    at Parser.handlePacket (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:126:29)
+    at Parser.parse (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/parser.js:39:38)
+    at Socket.<anonymous> (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+    at Readable.push (node:internal/streams/readable:234:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23) {
+  length: 116,
+  severity: 'ERROR',
+  code: '42P01',
+  detail: undefined,
+  hint: undefined,
+  position: '15',
+  internalPosition: undefined,
+  internalQuery: undefined,
+  where: undefined,
+  schema: undefined,
+  table: undefined,
+  column: undefined,
+  dataType: undefined,
+  constraint: undefined,
+  file: 'parse_relation.c',
+  line: '1381',
+  routine: 'parserOpenTable'
+}
+TypeError: Cannot use 'in' operator to search for 'color' in error
+    at MessageEmbed.setup (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/MessageEmbed.js:84:26)
+    at new MessageEmbed (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/MessageEmbed.js:44:10)
+    at /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/MessagePayload.js:201:49
+    at Array.map (<anonymous>)
+    at MessagePayload.resolveData (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/MessagePayload.js:201:36)
+    at DMChannel.send (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:172:61)
+    at User.send (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/discord.js/src/structures/interfaces/TextBasedChannel.js:164:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[ERROR] Encountered error on chat input command "changebetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/changeBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at changeBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/changeBetSlash.js?d=1670188255582&name=changeBetSlash&extension=.js:79:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "changebetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/changeBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at changeBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/changeBetSlash.js?d=1670188255582&name=changeBetSlash&extension=.js:79:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "cancelbetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at cancelBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js?d=1670188254914&name=cancelBetSlash&extension=.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "cancelbetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at cancelBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js?d=1670285598683&name=cancelBetSlash&extension=.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "cancelbetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at cancelBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js?d=1670285598683&name=cancelBetSlash&extension=.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "cancelbetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js" ReferenceError: db is not defined
+    at verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:10:15)
+    at cancelBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js?d=1670286811484&name=cancelBetSlash&extension=.js:49:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)
+[ERROR] Encountered error on chat input command "cancelbetslash" at path "/home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js" TypeError: Cannot read properties of null (reading 'startTime')
+    at file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/date/gameActive.js:23:39
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async gameActive (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/date/gameActive.js:17:27)
+    at async verifyCancellation (file:///home/fenix/Desktop/Bots/NBA_PLUTO/utils/db/betOps/verifyCancellation.js:16:22)
+    at async cancelBetSlash.chatInputRun (file:///home/fenix/Desktop/Bots/NBA_PLUTO/commands/slash/cancelBetSlash.js?d=1670468802813&name=cancelBetSlash&extension=.js:49:9)
+    at async /home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:17:28
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener.run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/listeners/application-commands/chat-input/CoreChatInputCommandAccepted.js:14:24)
+    at async Object.fromAsync (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/result/dist/index.js:615:22)
+    at async CoreListener._run (/home/fenix/Desktop/Bots/NBA_PLUTO/node_modules/@sapphire/framework/dist/lib/structures/Listener.js:93:24)

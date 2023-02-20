@@ -1,0 +1,4086 @@
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:25:12: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:21: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:28:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:30:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:31:50: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:33:31: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:34:51: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:37:41: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:38:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:39:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:40:28: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:25: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:49:59: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:50:22: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:52:53: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:53:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:55:14: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 16:58:36: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:06:18: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:07:45: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:09:07: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:10:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:05: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:11:43: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Atlanta Falcons Away Team: New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Minnesota Vikings Away Team: Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: New York Jets Away Team: Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Los Angeles Chargers Away Team: Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Tennessee Titans Away Team: New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Chicago Bears Away Team: San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Carolina Panthers Away Team: Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Cincinnati Bengals Away Team: Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Detroit Lions Away Team: Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Miami Dolphins Away Team: New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Houston Texans Away Team: Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Washington Commanders Away Team: Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:12:46: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team: Arizona Cardinals Away Team: Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:13:56: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:15:20: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Atlanta Falcons Away Team (teamtwo): New Orleans Saints
+Home Team Odds: 190 - Away Team Odds: -225
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: 210 - Away Team Odds: -255
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): Green Bay Packers
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Jets Away Team (teamtwo): Baltimore Ravens
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Carolina Panthers Away Team (teamtwo): Cleveland Browns
+Home Team Odds: -124 - Away Team Odds: 106
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Chicago Bears Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tennessee Titans Away Team (teamtwo): New York Giants
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Chargers Away Team (teamtwo): Las Vegas Raiders
+Home Team Odds: 154 - Away Team Odds: -184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cincinnati Bengals Away Team (teamtwo): Pittsburgh Steelers
+Home Team Odds: -280 - Away Team Odds: 230
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Washington Commanders Away Team (teamtwo): Jacksonville Jaguars
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-07 17:46:19: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -102 - Away Team Odds: -116
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -220 - Away Team Odds: 184
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 610 - Away Team Odds: -900
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Minnesota Vikings
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: 340 - Away Team Odds: -430
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Dallas Cowboys
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Buffalo Bills
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): New England Patriots
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): New York Giants
+Home Team Odds: -270 - Away Team Odds: 220
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Denver Broncos
+Home Team Odds: -295 - Away Team Odds: 240
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 102 - Away Team Odds: -120
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): New York Giants
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:29:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Denver Broncos
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -102 - Away Team Odds: -116
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -220 - Away Team Odds: 184
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 610 - Away Team Odds: -900
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Minnesota Vikings
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): New York Giants
+Home Team Odds: -270 - Away Team Odds: 220
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Denver Broncos
+Home Team Odds: -295 - Away Team Odds: 240
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 102 - Away Team Odds: -120
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Buffalo Bills
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: 340 - Away Team Odds: -430
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Dallas Cowboys
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): New York Giants
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): New England Patriots
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:37:35: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Denver Broncos
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -102 - Away Team Odds: -116
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -220 - Away Team Odds: 184
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 610 - Away Team Odds: -900
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Dallas Cowboys
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Minnesota Vikings
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): New York Giants
+Home Team Odds: -270 - Away Team Odds: 220
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Denver Broncos
+Home Team Odds: -295 - Away Team Odds: 240
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: 340 - Away Team Odds: -430
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Buffalo Bills
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): New York Giants
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 102 - Away Team Odds: -120
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): New England Patriots
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:38:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Denver Broncos
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 610 - Away Team Odds: -900
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Minnesota Vikings
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): New York Giants
+Home Team Odds: -270 - Away Team Odds: 220
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Denver Broncos
+Home Team Odds: -295 - Away Team Odds: 240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: 340 - Away Team Odds: -430
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Dallas Cowboys
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 102 - Away Team Odds: -120
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Buffalo Bills
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): New York Giants
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): New England Patriots
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Denver Broncos
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:39:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 610 - Away Team Odds: -900
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Minnesota Vikings
+Home Team Odds: -118 - Away Team Odds: 100
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Kansas City Chiefs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): New York Giants
+Home Team Odds: -270 - Away Team Odds: 220
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Denver Broncos
+Home Team Odds: -295 - Away Team Odds: 240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Tampa Bay Buccaneers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: 340 - Away Team Odds: -430
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Dallas Cowboys
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Arizona Cardinals Away Team (teamtwo): San Francisco 49ers
+Home Team Odds: 102 - Away Team Odds: -120
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Buffalo Bills
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): New York Giants
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Minnesota Vikings Away Team (teamtwo): New England Patriots
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Denver Broncos
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Philadelphia Eagles
+Home Team Odds: 166 - Away Team Odds: -198
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Houston Texans Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: 275 - Away Team Odds: -340
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-08 19:46:57: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Miami Dolphins Away Team (teamtwo): New England Patriots
+Home Team Odds: -172 - Away Team Odds: 144
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-09 22:39:23: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: 120 - Away Team Odds: -142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-09 22:39:23: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "awayteam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -200 - Away Team Odds: 168
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Baltimore Ravens Away Team (teamtwo): Miami Dolphins
+Home Team Odds: -186 - Away Team Odds: 156
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Kansas City Chiefs Away Team (teamtwo): Los Angeles Chargers
+Home Team Odds: -190 - Away Team Odds: 160
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cleveland Browns Away Team (teamtwo): New York Jets
+Home Team Odds: -255 - Away Team Odds: 210
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 430 - Away Team Odds: -590
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -134 - Away Team Odds: 114
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Las Vegas Raiders Away Team (teamtwo): Arizona Cardinals
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Giants Away Team (teamtwo): Carolina Panthers
+Home Team Odds: 118 - Away Team Odds: -138
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: -320 - Away Team Odds: 260
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Chicago Bears
+Home Team Odds: 360 - Away Team Odds: -460
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 02:00:03: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 134 - Away Team Odds: -158
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Kansas City Chiefs Away Team (teamtwo): Los Angeles Chargers
+Home Team Odds: -190 - Away Team Odds: 160
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Las Vegas Raiders Away Team (teamtwo): Arizona Cardinals
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: -340 - Away Team Odds: 275
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Denver Broncos Away Team (teamtwo): Houston Texans
+Home Team Odds: -500 - Away Team Odds: 385
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Chicago Bears
+Home Team Odds: 360 - Away Team Odds: -460
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Giants Away Team (teamtwo): Carolina Panthers
+Home Team Odds: 118 - Away Team Odds: -138
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -130 - Away Team Odds: 110
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Baltimore Ravens Away Team (teamtwo): Miami Dolphins
+Home Team Odds: -184 - Away Team Odds: 154
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 400 - Away Team Odds: -520
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -200 - Away Team Odds: 168
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cleveland Browns Away Team (teamtwo): New York Jets
+Home Team Odds: -255 - Away Team Odds: 210
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 134 - Away Team Odds: -158
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:18:30: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): San Francisco 49ers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: -390 - Away Team Odds: 310
+Error Details:
+RangeError: Variable $6 out of range. Parameters array length: 5
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Kansas City Chiefs Away Team (teamtwo): Los Angeles Chargers
+Home Team Odds: -190 - Away Team Odds: 160
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Detroit Lions Away Team (teamtwo): Washington Commanders
+Home Team Odds: -130 - Away Team Odds: 110
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Baltimore Ravens Away Team (teamtwo): Miami Dolphins
+Home Team Odds: -184 - Away Team Odds: 154
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Cleveland Browns Away Team (teamtwo): New York Jets
+Home Team Odds: -255 - Away Team Odds: 210
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New York Giants Away Team (teamtwo): Carolina Panthers
+Home Team Odds: 118 - Away Team Odds: -138
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Jacksonville Jaguars Away Team (teamtwo): Indianapolis Colts
+Home Team Odds: -200 - Away Team Odds: 168
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Las Vegas Raiders Away Team (teamtwo): Arizona Cardinals
+Home Team Odds: 198 - Away Team Odds: -240
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Dallas Cowboys Away Team (teamtwo): Cincinnati Bengals
+Home Team Odds: -340 - Away Team Odds: 275
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Denver Broncos Away Team (teamtwo): Houston Texans
+Home Team Odds: -500 - Away Team Odds: 385
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Green Bay Packers Away Team (teamtwo): Chicago Bears
+Home Team Odds: 360 - Away Team Odds: -460
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Pittsburgh Steelers Away Team (teamtwo): New England Patriots
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): New Orleans Saints Away Team (teamtwo): Tampa Bay Buccaneers
+Home Team Odds: 134 - Away Team Odds: -158
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): San Francisco 49ers Away Team (teamtwo): Seattle Seahawks
+Home Team Odds: -390 - Away Team Odds: 310
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 12:19:54: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamone): Los Angeles Rams Away Team (teamtwo): Atlanta Falcons
+Home Team Odds: 400 - Away Team Odds: -520
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+09-13 14:40:42: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: -220 - Away Team Odds: 184
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-02 17:53:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New England Patriots
+Home Team Odds: -230 - Away Team Odds: 176
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-02 17:53:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Las Vegas Raiders Away Team (teamTwo): Denver Broncos
+Home Team Odds: 144 - Away Team Odds: -186
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-02 17:53:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): San Francisco 49ers Away Team (teamTwo): Los Angeles Rams
+Home Team Odds: 104 - Away Team Odds: -122
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-02 17:53:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Kansas City Chiefs
+Home Team Odds: 112 - Away Team Odds: -132
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-02 17:53:13: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Carolina Panthers Away Team (teamTwo): Arizona Cardinals
+Home Team Odds: 200 - Away Team Odds: -265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Denver Broncos Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -174 - Away Team Odds: 146
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Browns Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New Orleans Saints Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -235 - Away Team Odds: 194
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New York Giants
+Home Team Odds: -355 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Pittsburgh Steelers
+Home Team Odds: -900 - Away Team Odds: 610
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Vikings Away Team (teamTwo): Chicago Bears
+Home Team Odds: 250 - Away Team Odds: -300
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Washington Commanders Away Team (teamTwo): Tennessee Titans
+Home Team Odds: -144 - Away Team Odds: 122
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Arizona Cardinals Away Team (teamTwo): Philadelphia Eagles
+Home Team Odds: 194 - Away Team Odds: -235
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Baltimore Ravens Away Team (teamTwo): Cincinnati Bengals
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Las Vegas Raiders
+Home Team Odds: -350 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New England Patriots Away Team (teamTwo): Detroit Lions
+Home Team Odds: 140 - Away Team Odds: -168
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Jets Away Team (teamTwo): Miami Dolphins
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Jacksonville Jaguars Away Team (teamTwo): Houston Texans
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:37:00: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Atlanta Falcons
+Home Team Odds: 315 - Away Team Odds: -400
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Denver Broncos Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -174 - Away Team Odds: 146
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New Orleans Saints Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -235 - Away Team Odds: 194
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New York Giants
+Home Team Odds: -355 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Atlanta Falcons
+Home Team Odds: 315 - Away Team Odds: -400
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Pittsburgh Steelers
+Home Team Odds: -900 - Away Team Odds: 610
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Vikings Away Team (teamTwo): Chicago Bears
+Home Team Odds: 250 - Away Team Odds: -300
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Browns Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New England Patriots Away Team (teamTwo): Detroit Lions
+Home Team Odds: 140 - Away Team Odds: -168
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Jacksonville Jaguars Away Team (teamTwo): Houston Texans
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Washington Commanders Away Team (teamTwo): Tennessee Titans
+Home Team Odds: -144 - Away Team Odds: 122
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Arizona Cardinals Away Team (teamTwo): Philadelphia Eagles
+Home Team Odds: 194 - Away Team Odds: -235
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Baltimore Ravens Away Team (teamTwo): Cincinnati Bengals
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Las Vegas Raiders
+Home Team Odds: -350 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 04:45:16: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Jets Away Team (teamTwo): Miami Dolphins
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Denver Broncos Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -174 - Away Team Odds: 146
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New York Giants
+Home Team Odds: -355 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Atlanta Falcons
+Home Team Odds: 315 - Away Team Odds: -400
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Pittsburgh Steelers
+Home Team Odds: -900 - Away Team Odds: 610
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Washington Commanders Away Team (teamTwo): Tennessee Titans
+Home Team Odds: -144 - Away Team Odds: 122
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Las Vegas Raiders
+Home Team Odds: -350 - Away Team Odds: 285
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Vikings Away Team (teamTwo): Chicago Bears
+Home Team Odds: 250 - Away Team Odds: -300
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Browns Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: 136 - Away Team Odds: -162
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Jacksonville Jaguars Away Team (teamTwo): Houston Texans
+Home Team Odds: 265 - Away Team Odds: -330
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New England Patriots Away Team (teamTwo): Detroit Lions
+Home Team Odds: 140 - Away Team Odds: -168
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Arizona Cardinals Away Team (teamTwo): Philadelphia Eagles
+Home Team Odds: 194 - Away Team Odds: -235
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Baltimore Ravens Away Team (teamTwo): Cincinnati Bengals
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Jets Away Team (teamTwo): Miami Dolphins
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-04 05:20:38: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New Orleans Saints Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -235 - Away Team Odds: 194
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Denver Broncos Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -176 - Away Team Odds: 148
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Washington Commanders Away Team (teamTwo): Tennessee Titans
+Home Team Odds: -138 - Away Team Odds: 118
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Atlanta Falcons
+Home Team Odds: 360 - Away Team Odds: -460
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New York Giants
+Home Team Odds: -400 - Away Team Odds: 315
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Carolina Panthers Away Team (teamTwo): San Francisco 49ers
+Home Team Odds: 235 - Away Team Odds: -290
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Arizona Cardinals Away Team (teamTwo): Philadelphia Eagles
+Home Team Odds: 215 - Away Team Odds: -260
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Los Angeles Rams Away Team (teamTwo): Dallas Cowboys
+Home Team Odds: 205 - Away Team Odds: -250
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Pittsburgh Steelers
+Home Team Odds: -900 - Away Team Odds: 610
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Baltimore Ravens Away Team (teamTwo): Cincinnati Bengals
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Browns Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: 128 - Away Team Odds: -152
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Vikings Away Team (teamTwo): Chicago Bears
+Home Team Odds: 265 - Away Team Odds: -320
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Las Vegas Raiders
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Jacksonville Jaguars Away Team (teamTwo): Houston Texans
+Home Team Odds: 245 - Away Team Odds: -300
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New England Patriots Away Team (teamTwo): Detroit Lions
+Home Team Odds: 144 - Away Team Odds: -172
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New Orleans Saints Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -235 - Away Team Odds: 194
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:23:40: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Jets Away Team (teamTwo): Miami Dolphins
+Home Team Odds: -168 - Away Team Odds: 142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:10: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Denver Broncos Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -176 - Away Team Odds: 148
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Washington Commanders Away Team (teamTwo): Tennessee Titans
+Home Team Odds: -138 - Away Team Odds: 118
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): New York Giants
+Home Team Odds: -400 - Away Team Odds: 315
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Atlanta Falcons
+Home Team Odds: 360 - Away Team Odds: -460
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Pittsburgh Steelers
+Home Team Odds: -900 - Away Team Odds: 610
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Arizona Cardinals Away Team (teamTwo): Philadelphia Eagles
+Home Team Odds: 215 - Away Team Odds: -260
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Los Angeles Rams Away Team (teamTwo): Dallas Cowboys
+Home Team Odds: 205 - Away Team Odds: -250
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Baltimore Ravens Away Team (teamTwo): Cincinnati Bengals
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Carolina Panthers Away Team (teamTwo): San Francisco 49ers
+Home Team Odds: 235 - Away Team Odds: -290
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Vikings Away Team (teamTwo): Chicago Bears
+Home Team Odds: 265 - Away Team Odds: -320
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Browns Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: 122 - Away Team Odds: -144
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New England Patriots Away Team (teamTwo): Detroit Lions
+Home Team Odds: 144 - Away Team Odds: -172
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Jacksonville Jaguars Away Team (teamTwo): Houston Texans
+Home Team Odds: 245 - Away Team Odds: -300
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Las Vegas Raiders
+Home Team Odds: -330 - Away Team Odds: 265
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Jets Away Team (teamTwo): Miami Dolphins
+Home Team Odds: -168 - Away Team Odds: 142
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-05 15:27:11: - Logging - 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New Orleans Saints Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -235 - Away Team Odds: 194
+Error Details:
+error: duplicate key value violates unique constraint "hometeam"
+10-27 14:38:24: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Brooklyn Nets Away Team (teamTwo): Dallas Mavericks
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:38:24: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Oklahoma City Thunder Away Team (teamTwo): Los Angeles Clippers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:38:25: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Golden State Warriors Away Team (teamTwo): Miami Heat
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:38:26: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Sacramento Kings Away Team (teamTwo): Memphis Grizzlies
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:38:26: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Detroit Pistons Away Team (teamTwo): Atlanta Hawks
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:39:19: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Brooklyn Nets Away Team (teamTwo): Dallas Mavericks
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:39:20: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Oklahoma City Thunder Away Team (teamTwo): Los Angeles Clippers
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:39:21: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Golden State Warriors Away Team (teamTwo): Miami Heat
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:39:21: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Sacramento Kings Away Team (teamTwo): Memphis Grizzlies
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+10-27 14:39:22: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Detroit Pistons Away Team (teamTwo): Atlanta Hawks
+Home Team Odds: undefined - Away Team Odds: undefined
+Error Details:
+TypeError: Cannot read properties of undefined (reading 'toString')
+--------    --------
+11-05 01:08:35: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Milwaukee Bucks Away Team (teamTwo): Oklahoma City Thunder
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+11-05 22:28:18: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Minnesota Timberwolves Away Team (teamTwo): Houston Rockets
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+11-05 22:28:19: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Denver Nuggets Away Team (teamTwo): San Antonio Spurs
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+11-05 22:28:19: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Phoenix Suns Away Team (teamTwo): Portland Trail Blazers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+11-10 21:51:16: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Atlanta Hawks Away Team (teamTwo): Philadelphia 76ers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+11-11 14:22:33: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tampa Bay Buccaneers Away Team (teamTwo): Seattle Seahawks
+Home Team Odds: -142 - Away Team Odds: 120
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:33: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Buffalo Bills Away Team (teamTwo): Minnesota Vikings
+Home Team Odds: -178 - Away Team Odds: 150
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:34: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Chicago Bears Away Team (teamTwo): Detroit Lions
+Home Team Odds: -158 - Away Team Odds: 134
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:35: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Miami Dolphins Away Team (teamTwo): Cleveland Browns
+Home Team Odds: -174 - Away Team Odds: 146
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:35: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Tennessee Titans Away Team (teamTwo): Denver Broncos
+Home Team Odds: -146 - Away Team Odds: 124
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:36: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): New York Giants Away Team (teamTwo): Houston Texans
+Home Team Odds: -225 - Away Team Odds: 188
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:36: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Kansas City Chiefs Away Team (teamTwo): Jacksonville Jaguars
+Home Team Odds: -430 - Away Team Odds: 340
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:37: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Pittsburgh Steelers Away Team (teamTwo): New Orleans Saints
+Home Team Odds: 108 - Away Team Odds: -126
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:38: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Las Vegas Raiders Away Team (teamTwo): Indianapolis Colts
+Home Team Odds: -215 - Away Team Odds: 180
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:38: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Los Angeles Rams Away Team (teamTwo): Arizona Cardinals
+Home Team Odds: -120 - Away Team Odds: 102
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:39: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Green Bay Packers Away Team (teamTwo): Dallas Cowboys
+Home Team Odds: 168 - Away Team Odds: -200
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+11-11 14:22:40: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): San Francisco 49ers Away Team (teamTwo): Los Angeles Chargers
+Home Team Odds: -300 - Away Team Odds: 245
+Error Details:
+error: column "idapi" of relation "activematchups" does not exist
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Cleveland Cavaliers Away Team (teamTwo): Milwaukee Bucks
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Philadelphia 76ers Away Team (teamTwo): Detroit Pistons
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Atlanta Hawks Away Team (teamTwo): Chicago Bulls
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Boston Celtics Away Team (teamTwo): Indiana Pacers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Minnesota Timberwolves Away Team (teamTwo): Dallas Mavericks
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Houston Rockets Away Team (teamTwo): Orlando Magic
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Oklahoma City Thunder Away Team (teamTwo): Portland Trail Blazers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Sacramento Kings Away Team (teamTwo): Los Angeles Lakers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+12-20 17:49:03: --------    -------- 
+Error adding matchup to activematchups table
+Data received:
+Home Team (teamOne): Boston Celtics Away Team (teamTwo): Milwaukee Bucks
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+01-16 13:06:34: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): San Antonio Spurs Away Team (teamTwo): Brooklyn Nets
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+01-16 13:06:34: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Denver Nuggets Away Team (teamTwo): Portland Trail Blazers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+01-16 13:18:45: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): San Antonio Spurs Away Team (teamTwo): Brooklyn Nets
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------
+01-16 13:18:45: --------    -------- 
+Error adding matchup to NBAactivematchups table
+Data received:
+Home Team (teamOne): Denver Nuggets Away Team (teamTwo): Portland Trail Blazers
+Home Team Odds: n/a - Away Team Odds: n/a
+Error Details:
+error: invalid input syntax for type real: "n/a"
+--------    --------

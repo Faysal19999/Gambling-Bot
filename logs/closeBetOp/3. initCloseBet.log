@@ -1,0 +1,2855 @@
+10-03 01:12:21: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:12:21: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:12:21: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 01:12:21: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:12:21: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:12:21: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:15:55: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:15:55: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:15:55: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:15:55: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 01:15:55: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:15:55: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:15:55: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:15:55: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:16:48: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:17:02: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:17:05: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:18:57: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:20:41: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:23:11: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:23:11: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:23:11: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:23:11: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:23:11: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:23:11: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:23:11: - Logging - 
+[Match #4444] Odds: 114
+10-03 01:23:11: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 642
+Profit: 342
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:23:11: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:23:11: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:27:32: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:27:32: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:27:32: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:27:32: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 01:27:32: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:27:32: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:27:32: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:27:32: - Logging - 
+[Match #4444] Odds: 114
+10-03 01:27:32: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 642
+Profit: 342
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:27:32: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:27:33: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:28:02: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:28:25: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 01:30:19: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:30:19: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:30:19: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:30:19: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:30:19: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:30:19: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:30:19: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:30:19: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:30:19: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:30:19: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:30:19: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:30:19: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:33:30: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:33:30: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:33:31: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:33:31: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:33:31: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:33:31: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:33:31: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:33:31: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:33:31: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:33:31: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:35:40: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:35:40: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:35:40: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:35:40: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 01:35:40: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:35:40: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:35:40: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:35:40: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:35:40: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:35:40: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:35:40: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 01:35:54: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:38:07: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:38:07: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:38:32: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:38:44: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:40:03: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:40:10: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 01:40:53: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:41:21: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:41:33: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:41:38: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:41:53: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:42:02: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:42:25: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:42:29: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:43:03: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:45:05: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:45:05: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:45:05: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:45:05: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:45:05: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 01:45:05: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:45:05: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:45:05: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:45:05: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:45:05: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:46:41: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:46:41: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:46:41: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:46:41: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:46:41: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:46:41: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:46:41: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:46:41: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:46:41: - Logging - 
+User 934338000064766003 is no longer in the server. Removing bet 8888 from the database.
+10-03 01:56:02: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:56:02: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:56:02: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:56:02: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:57:14: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:57:14: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:57:14: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:57:14: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:57:14: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:57:14: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:57:14: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:57:14: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:57:14: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:57:14: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:59:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 01:59:39: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 01:59:39: - Logging - 
+[Match #3333] Odds: -103
+10-03 01:59:39: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 01:59:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 01:59:39: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 01:59:39: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:59:39: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 01:59:39: - Logging - 
+[Match #4444] Odds: -114
+10-03 01:59:39: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:03:35: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:03:35: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:03:35: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:03:35: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:03:35: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:03:35: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:03:35: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:03:35: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:03:35: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:03:35: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:03:35: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:04:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:04:49: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:05:00: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:05:05: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:05:23: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:05:27: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:05:38: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:05:38: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:05:49: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:05:49: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:06:48: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:06:48: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:06:48: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 02:06:48: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:06:48: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:06:48: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 02:07:21: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:07:21: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:07:21: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:07:21: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:07:21: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:07:21: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:07:21: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:07:21: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:07:21: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:07:21: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:12:07: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:12:07: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:12:07: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:12:07: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:12:07: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:12:07: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:12:07: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:12:07: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:12:07: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:12:07: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:21:08: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:21:08: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:21:08: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:21:08: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:21:08: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:21:08: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:21:08: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:21:08: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:21:08: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:21:08: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:23:11: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:23:11: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:23:11: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:23:11: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:23:11: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:23:11: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:23:11: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:23:11: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:23:11: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:23:11: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 02:23:48: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:23:49: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:24:15: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:24:15: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:24:15: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:24:15: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 02:24:15: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:24:15: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:24:15: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:24:15: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 02:24:46: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:24:46: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:24:46: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:24:46: - Logging - 
+Unable to locate bets for Match #4444 - Verify that this is accurate
+10-03 02:24:46: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:24:46: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:24:46: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:24:46: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:24:46: - Logging - 
+Unable to locate bets for Match #3333 - Verify that this is accurate
+10-03 02:26:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:26:39: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:26:39: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:26:39: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:26:39: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:26:39: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:26:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:26:39: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:26:39: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:27:52: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:28:37: - Logging - 
+Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:28:37: - Logging - 
+Error: Match 4444 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:28:37: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:28:37: - Logging - 
+Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:28:37: - Logging - 
+Error: Match 3333 is already in progress to be closed - Ceasing close bet operations.
+10-03 02:28:37: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:28:37: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:28:37: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:28:37: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:28:37: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:31:14: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:31:14: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:31:14: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:31:14: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:31:14: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:31:15: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:31:15: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:31:15: - Logging - 
+No bets found for Match ID: 3333
+10-03 02:31:50: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:31:50: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:31:50: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:31:50: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:31:50: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:31:50: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:31:50: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:31:50: - Logging - 
+No bets found for Match ID: 3333
+10-03 02:32:17: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:32:17: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:32:17: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:32:17: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:32:17: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:32:17: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:32:17: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:32:17: - Logging - 
+No bets found for Match ID: 3333
+10-03 02:35:18: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:35:18: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:35:18: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:35:18: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:35:18: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:35:18: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:35:18: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:35:18: - Logging - 
+No bets found for Match ID: 3333
+10-03 02:35:45: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:35:45: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 4444 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:35:45: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[]
+
+====
+10-03 02:35:45: - Logging - 
+No bets found for Match ID: 4444
+10-03 02:35:45: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:35:45: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3333 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 02:35:45: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[]
+
+====
+10-03 02:35:45: - Logging - 
+No bets found for Match ID: 3333
+10-03 02:37:39: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4444, Winning Team: Las Vegas Raiders
+10-03 02:37:39: - Logging - 
+
+===Collected Betslips for Match #4444
+
+[
+	{
+		betid: '1111',
+		userid: '208016830491525120',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	},
+	{
+		betid: '8888',
+		userid: '934338000064766003',
+		teamid: 'Las Vegas Raiders',
+		matchid: '4444',
+		amount: '300'
+	}
+]
+
+====
+10-03 02:37:39: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:37:39: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 1111
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:37:40: - Logging - 
+[Match #4444] Odds: -114
+10-03 02:37:40: - Logging - 
+User <@934338000064766003> won their bet!
+Bet ID: 8888
+Bet Amount: 300
+Payout: 563.16
+Profit: 263.16
+Team Bet On: Las Vegas Raiders
+Team that won: Las Vegas Raiders
+Match ID: 4444
+10-03 02:37:40: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3333, Winning Team: Arizona Cardinals
+10-03 02:37:40: - Logging - 
+
+===Collected Betslips for Match #3333
+
+[
+	{
+		betid: '2222',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '3333',
+		amount: '200'
+	}
+]
+
+====
+10-03 02:37:40: - Logging - 
+[Match #3333] Odds: -103
+10-03 02:37:40: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 2222
+Bet Amount: 200
+Payout: 394.17
+Profit: 194.17
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 3333
+10-03 23:05:04: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:05:04: - Logging - 
+
+===Collected Betslips for Match #919
+
+[
+	{
+		betid: '4951',
+		userid: '208016830491525120',
+		teamid: 'Los Angeles Rams',
+		matchid: '919',
+		amount: '100'
+	}
+]
+
+====
+10-03 23:05:04: - Logging - 
+[Match #919] Odds: -126
+10-03 23:05:04: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 4951
+Bet Amount: 100
+Payout: 179.37
+Profit: 79.37
+Team Bet On: Los Angeles Rams
+Team that won: Los Angeles Rams
+Match ID: 919
+10-03 23:15:02: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:15:02: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:15:02: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:15:02: - Logging - 
+No bets found for Match ID: 919
+10-03 23:20:03: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:20:03: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:20:03: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:20:03: - Logging - 
+No bets found for Match ID: 919
+10-03 23:25:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:25:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:25:01: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:25:01: - Logging - 
+No bets found for Match ID: 919
+10-03 23:30:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:30:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:30:01: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:30:01: - Logging - 
+No bets found for Match ID: 919
+10-03 23:35:04: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:35:04: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:35:04: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:35:04: - Logging - 
+No bets found for Match ID: 919
+10-03 23:40:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:40:00: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:40:00: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:40:00: - Logging - 
+No bets found for Match ID: 919
+10-03 23:45:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:45:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:45:01: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:45:01: - Logging - 
+No bets found for Match ID: 919
+10-03 23:50:04: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:50:04: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:50:04: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:50:04: - Logging - 
+No bets found for Match ID: 919
+10-03 23:55:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 919, Winning Team: Los Angeles Rams
+10-03 23:55:00: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 919 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-03 23:55:00: - Logging - 
+
+===Collected Betslips for Match #919
+
+[]
+
+====
+10-03 23:55:00: - Logging - 
+No bets found for Match ID: 919
+10-04 01:45:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7568, Winning Team: Los Angeles Rams
+10-04 01:45:01: - Logging - 
+
+===Collected Betslips for Match #7568
+
+[
+	{
+		betid: '7949',
+		userid: '208016830491525120',
+		teamid: 'Los Angeles Rams',
+		matchid: '7568',
+		amount: '100'
+	}
+]
+
+====
+10-04 01:45:01: - Logging - 
+[Match #7568] Odds: -122
+10-04 01:45:01: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 7949
+Bet Amount: 100
+Payout: 181.97
+Profit: 81.97
+Team Bet On: Los Angeles Rams
+Team that won: Los Angeles Rams
+Match ID: 7568
+10-04 01:48:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7568, Winning Team: Los Angeles Rams
+10-04 01:48:00: - Logging - 
+
+===Collected Betslips for Match #7568
+
+[
+	{
+		betid: '116',
+		userid: '208016830491525120',
+		teamid: 'Los Angeles Rams',
+		matchid: '7568',
+		amount: '150'
+	}
+]
+
+====
+10-04 01:48:00: - Logging - 
+[Match #7568] Odds: -122
+10-04 01:48:00: - Logging - 
+User <@208016830491525120> won their bet!
+Bet ID: 116
+Bet Amount: 150
+Payout: 272.95
+Profit: 122.95
+Team Bet On: Los Angeles Rams
+Team that won: Los Angeles Rams
+Match ID: 7568
+10-04 01:55:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7568, Winning Team: San Francisco 49ers
+10-04 01:55:00: - Logging - 
+
+===Collected Betslips for Match #7568
+
+[
+	{
+		betid: '3365',
+		userid: '208016830491525120',
+		teamid: 'Los Angeles Rams',
+		matchid: '7568',
+		amount: '100'
+	}
+]
+
+====
+10-04 01:55:00: - Logging - 
+User <@208016830491525120> lost their bet
+Bet ID: 3365
+Bet Amount: 100
+Team Bet On: Los Angeles Rams
+Team that won: San Francisco 49ers
+Match ID: 7568
+10-04 01:56:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7568, Winning Team: San Francisco 49ers
+10-04 01:56:00: - Logging - 
+
+===Collected Betslips for Match #7568
+
+[
+	{
+		betid: '1150',
+		userid: '208016830491525120',
+		teamid: 'Los Angeles Rams',
+		matchid: '7568',
+		amount: '100'
+	}
+]
+
+====
+10-04 01:56:00: - Logging - 
+User <@208016830491525120> lost their bet
+Bet ID: 1150
+Bet Amount: 100
+Team Bet On: Los Angeles Rams
+Team that won: San Francisco 49ers
+Match ID: 7568
+10-04 02:20:04: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7568, Winning Team: San Francisco 49ers
+10-04 02:20:04: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 7568 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-04 02:20:04: - Logging - 
+
+===Collected Betslips for Match #7568
+
+[]
+
+====
+10-04 02:20:04: - Logging - 
+No bets found for Match ID: 7568
+10-04 02:50:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7588, Winning Team: Minnesota Vikings
+10-04 02:50:02: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 7588 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-04 02:50:02: - Logging - 
+
+===Collected Betslips for Match #7588
+
+[]
+
+====
+10-04 02:50:02: - Logging - 
+No bets found for Match ID: 7588
+10-16 15:58:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 1925, Winning Team: Atlanta Falcons
+10-16 15:58:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 1925 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 15:58:01: - Logging - 
+
+===Collected Betslips for Match #1925
+
+[]
+
+====
+10-16 15:58:01: - Logging - 
+No bets found for Match ID: 1925
+10-16 17:44:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 2951, Winning Team: Minnesota Vikings
+10-16 17:44:00: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 2951 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:00: - Logging - 
+
+===Collected Betslips for Match #2951
+
+[]
+
+====
+10-16 17:44:00: - Logging - 
+No bets found for Match ID: 2951
+10-16 17:44:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6310, Winning Team: Pittsburgh Steelers
+10-16 17:44:00: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 6310 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:00: - Logging - 
+
+===Collected Betslips for Match #6310
+
+[]
+
+====
+10-16 17:44:00: - Logging - 
+No bets found for Match ID: 6310
+10-16 17:44:00: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 151, Winning Team: Indianapolis Colts
+10-16 17:44:00: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 151 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:00: - Logging - 
+
+===Collected Betslips for Match #151
+
+[]
+
+====
+10-16 17:44:00: - Logging - 
+No bets found for Match ID: 151
+10-16 17:44:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 3035, Winning Team: New York Jets
+10-16 17:44:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 3035 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:01: - Logging - 
+
+===Collected Betslips for Match #3035
+
+[]
+
+====
+10-16 17:44:01: - Logging - 
+No bets found for Match ID: 3035
+10-16 17:44:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6407, Winning Team: New York Giants
+10-16 17:44:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 6407 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:01: - Logging - 
+
+===Collected Betslips for Match #6407
+
+[]
+
+====
+10-16 17:44:01: - Logging - 
+No bets found for Match ID: 6407
+10-16 17:44:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 547, Winning Team: Cincinnati Bengals
+10-16 17:44:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 547 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:01: - Logging - 
+
+===Collected Betslips for Match #547
+
+[]
+
+====
+10-16 17:44:01: - Logging - 
+No bets found for Match ID: 547
+10-16 17:44:01: - Logging - 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6365, Winning Team: New England Patriots
+10-16 17:44:01: - Logging - 
+== ERROR: == 
+Unable to locate bets for Match ID: 6365 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+10-16 17:44:01: - Logging - 
+
+===Collected Betslips for Match #6365
+
+[]
+
+====
+10-16 17:44:01: - Logging - 
+No bets found for Match ID: 6365
+10-21 01:35:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 9104, Winning Team: Arizona Cardinals
+--------    --------
+10-21 01:35:02: --------    -------- 
+
+===Collected Betslips for Match #9104
+
+[
+	{
+		betid: '5748',
+		userid: '208016830491525120',
+		teamid: 'Arizona Cardinals',
+		matchid: '9104',
+		amount: '300',
+		dateofbet: null
+	}
+]
+
+====
+--------    --------
+10-21 01:35:02: --------    -------- 
+[Match #9104] Odds: -136
+--------    --------
+10-21 01:35:02: --------    -------- 
+User <@208016830491525120> won their bet!
+Bet ID: 5748
+Bet Amount: 300
+Payout: 520.59
+Profit: 220.59
+Team Bet On: Arizona Cardinals
+Team that won: Arizona Cardinals
+Match ID: 9104
+--------    --------
+10-21 23:27:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4399, Winning Team: Arizona Cardinals
+--------    --------
+10-21 23:27:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 4399 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-21 23:27:01: --------    -------- 
+
+===Collected Betslips for Match #4399
+
+[]
+
+====
+--------    --------
+10-21 23:27:01: --------    -------- 
+No bets found for Match ID: 4399
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 8405, Winning Team: Tennessee Titans
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 8405 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #8405
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 8405
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 1521, Winning Team: Dallas Cowboys
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 1521 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #1521
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 1521
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7602, Winning Team: Baltimore Ravens
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 7602 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #7602
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 7602
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4010, Winning Team: Cincinnati Bengals
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #4010
+
+[
+	{
+		betid: '8023',
+		userid: '208016830491525120',
+		teamid: 'Atlanta Falcons',
+		matchid: '4010',
+		amount: '10',
+		dateofbet: null
+	}
+]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+User <@208016830491525120> lost their bet
+Bet ID: 8023
+Bet Amount: 10
+Team Bet On: Atlanta Falcons
+Team that won: Cincinnati Bengals
+Match ID: 4010
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 2025, Winning Team: Washington Commanders
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 2025 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #2025
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 2025
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7242, Winning Team: Carolina Panthers
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 7242 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #7242
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 7242
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 2552, Winning Team: New York Giants
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 2552 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #2552
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 2552
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6999, Winning Team: Las Vegas Raiders
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 6999 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #6999
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 6999
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4455, Winning Team: New York Jets
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 4455 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #4455
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 4455
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 5079, Winning Team: Seattle Seahawks
+--------    --------
+10-23 20:40:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 5079 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #5079
+
+[]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+No bets found for Match ID: 5079
+--------    --------
+10-23 20:40:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 9846, Winning Team: Kansas City Chiefs
+--------    --------
+10-23 20:40:02: --------    -------- 
+
+===Collected Betslips for Match #9846
+
+[
+	{
+		betid: '68',
+		userid: '208016830491525120',
+		teamid: 'Kansas City Chiefs',
+		matchid: '9846',
+		amount: '30',
+		dateofbet: null
+	}
+]
+
+====
+--------    --------
+10-23 20:40:02: --------    -------- 
+[Match #9846] Odds: 100
+--------    --------
+10-23 20:40:02: --------    -------- 
+User <@208016830491525120> won their bet!
+Bet ID: 68
+Bet Amount: 30
+Payout: 60
+Profit: 30
+Team Bet On: Kansas City Chiefs
+Team that won: Kansas City Chiefs
+Match ID: 9846
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 8405, Winning Team: Tennessee Titans
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 8405 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #8405
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 8405
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 1521, Winning Team: Dallas Cowboys
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 1521 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #1521
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 1521
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7602, Winning Team: Baltimore Ravens
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 7602 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #7602
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 7602
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4010, Winning Team: Cincinnati Bengals
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 4010 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #4010
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 4010
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 2025, Winning Team: Washington Commanders
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 2025 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #2025
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 2025
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 7242, Winning Team: Carolina Panthers
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 7242 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #7242
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 7242
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 2552, Winning Team: New York Giants
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 2552 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #2552
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 2552
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6999, Winning Team: Las Vegas Raiders
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 6999 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #6999
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 6999
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 4455, Winning Team: New York Jets
+--------    --------
+10-23 21:16:01: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 4455 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:01: --------    -------- 
+
+===Collected Betslips for Match #4455
+
+[]
+
+====
+--------    --------
+10-23 21:16:01: --------    -------- 
+No bets found for Match ID: 4455
+--------    --------
+10-23 21:16:01: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 5079, Winning Team: Seattle Seahawks
+--------    --------
+10-23 21:16:02: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 5079 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-23 21:16:02: --------    -------- 
+
+===Collected Betslips for Match #5079
+
+[]
+
+====
+--------    --------
+10-23 21:16:02: --------    -------- 
+No bets found for Match ID: 5079
+--------    --------
+10-23 21:16:02: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 9846, Winning Team: Kansas City Chiefs
+--------    --------
+10-23 21:16:02: --------    -------- 
+
+===Collected Betslips for Match #9846
+
+[
+	{
+		betid: '7334',
+		userid: '208016830491525120',
+		teamid: 'Kansas City Chiefs',
+		matchid: '9846',
+		amount: '30',
+		dateofbet: null
+	}
+]
+
+====
+--------    --------
+10-23 21:16:02: --------    -------- 
+[Match #9846] Odds: 100
+--------    --------
+10-23 21:16:02: --------    -------- 
+User <@208016830491525120> won their bet!
+Bet ID: 7334
+Bet Amount: 30
+Payout: 60
+Profit: 30
+Team Bet On: Kansas City Chiefs
+Team that won: Kansas City Chiefs
+Match ID: 9846
+--------    --------
+10-27 16:09:17: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 501, Winning Team: Oklahoma City Thunder
+--------    --------
+10-27 16:09:17: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 501 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-27 16:09:17: --------    -------- 
+
+===Collected Betslips for Match #501
+
+[]
+
+====
+--------    --------
+10-27 16:09:17: --------    -------- 
+No bets found for Match ID: 501
+--------    --------
+10-27 16:09:18: --------    -------- 
+Initilization - Closing Matchup Operation Started!
+Match ID: 6694, Winning Team: Atlanta Hawks
+--------    --------
+10-27 16:09:18: --------    -------- 
+== ERROR: == 
+Unable to locate bets for Match ID: 6694 from the Database.
+Likely, there are no bets for this match.
+Please verify this is accurate in the databse [activebets table]
+--------    --------
+10-27 16:09:18: --------    -------- 
+
+===Collected Betslips for Match #6694
+
+[]
+
+====
+--------    --------
+10-27 16:09:18: --------    -------- 
+No bets found for Match ID: 6694
+--------    --------

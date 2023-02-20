@@ -1,0 +1,4646 @@
+10-04 02:42:01: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'San Francisco 49ers'"
+}
+10-04 02:45:02: - Logging - 
+Error: QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'San Francisco 49ers'"
+}
+10-04 02:45:02: - Logging - 
+Unable to locate matchup / ID for San Francisco 49ers vs Los Angeles Rams in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Detroit Lions'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for Detroit Lions vs Seattle Seahawks in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Giants'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for New York Giants vs Chicago Bears in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Atlanta Falcons'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for Atlanta Falcons vs Cleveland Browns in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Dallas Cowboys'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for Dallas Cowboys vs Washington Commanders in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Indianapolis Colts'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for Indianapolis Colts vs Tennessee Titans in the database
+10-04 02:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Philadelphia Eagles'"
+}
+
+10-04 02:50:01: - Logging - 
+Unable to locate matchup / ID for Philadelphia Eagles vs Jacksonville Jaguars in the database
+10-04 02:50:02: - Logging - 
+== Error: ==
+false
+
+10-04 02:50:02: - Logging - 
+== Error: ==
+false
+
+10-04 02:50:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Las Vegas Raiders'"
+}
+
+10-04 02:50:02: - Logging - 
+Unable to locate matchup / ID for Las Vegas Raiders vs Denver Broncos in the database
+10-04 02:50:02: - Logging - 
+== Error: ==
+false
+
+10-04 02:50:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'San Francisco 49ers'"
+}
+
+10-04 02:50:02: - Logging - 
+Unable to locate matchup / ID for San Francisco 49ers vs Los Angeles Rams in the database
+10-04 02:50:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Pittsburgh Steelers'"
+}
+
+10-04 02:50:02: - Logging - 
+Unable to locate matchup / ID for Pittsburgh Steelers vs New York Jets in the database
+10-04 02:50:02: - Logging - 
+== Error: ==
+false
+
+10-04 02:50:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Houston Texans'"
+}
+
+10-04 02:50:02: - Logging - 
+Unable to locate matchup / ID for Houston Texans vs Los Angeles Chargers in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Minnesota Vikings in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Detroit Lions'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Detroit Lions vs Seattle Seahawks in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Giants'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for New York Giants vs Chicago Bears in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Atlanta Falcons'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Atlanta Falcons vs Cleveland Browns in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Dallas Cowboys'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Dallas Cowboys vs Washington Commanders in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Indianapolis Colts'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Indianapolis Colts vs Tennessee Titans in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Philadelphia Eagles'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Philadelphia Eagles vs Jacksonville Jaguars in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+false
+
+10-04 02:51:01: - Logging - 
+== Error: ==
+false
+
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Las Vegas Raiders'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Las Vegas Raiders vs Denver Broncos in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+false
+
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'San Francisco 49ers'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for San Francisco 49ers vs Los Angeles Rams in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Pittsburgh Steelers'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Pittsburgh Steelers vs New York Jets in the database
+10-04 02:51:01: - Logging - 
+== Error: ==
+false
+
+10-04 02:51:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Houston Texans'"
+}
+
+10-04 02:51:01: - Logging - 
+Unable to locate matchup / ID for Houston Texans vs Los Angeles Chargers in the database
+10-06 23:50:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Denver Broncos'"
+}
+
+10-06 23:50:03: - Logging - 
+Unable to locate matchup / ID for Denver Broncos vs Indianapolis Colts in the database
+10-06 23:55:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Denver Broncos'"
+}
+
+10-06 23:55:00: - Logging - 
+Unable to locate matchup / ID for Denver Broncos vs Indianapolis Colts in the database
+10-09 15:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:00:03: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:02:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:02:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:04:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:04:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:06:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:06:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:08:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:08:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:10:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:10:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:12:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:14:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:14:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:16:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:16:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:18:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:18:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:20:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:20:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:22:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:24:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:26:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:26:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:28:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:28:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:30:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:30:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:32:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:32:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:34:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:34:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:36:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:38:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:40:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:40:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:42:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:44:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:44:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:46:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:46:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:48:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:48:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:50:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:52:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:54:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:56:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 15:56:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 15:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 15:58:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 15:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 15:58:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:00:04: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:00:04: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:00:04: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:00:04: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:00:04: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:00:04: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:02:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:02:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:02:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:02:00: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:02:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:02:00: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:04:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:04:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:04:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:04:00: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:04:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:04:00: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:06:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:06:00: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:06:00: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:06:00: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:06:00: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:08:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:08:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:08:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:08:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:08:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:10:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:12:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:14:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:14:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:16:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:16:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:16:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:16:02: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:18:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:18:00: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:20:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:20:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:22:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:22:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:24:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:24:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:26:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:26:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:28:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:28:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:30:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:30:03: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:32:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:32:02: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:34:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:34:00: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:36:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:36:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:36:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:36:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:38:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:38:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:40:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:40:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:42:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:42:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:44:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:46:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:46:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:48:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:48:02: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:50:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:50:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:52:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:52:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:52:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:52:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:54:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:54:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:56:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:56:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 16:58:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 16:58:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:00:03: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:00:03: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:02:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:02:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:02:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:02:02: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:04:02: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:04:02: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:06:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:06:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:06:00: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:06:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:06:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:08:00: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:08:00: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:08:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:08:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:10:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:10:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Green Bay Packers'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Green Bay Packers vs New York Giants in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Buffalo Bills'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Buffalo Bills vs Pittsburgh Steelers in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Minnesota Vikings'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Minnesota Vikings vs Chicago Bears in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New Orleans Saints'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for New Orleans Saints vs Seattle Seahawks in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Cleveland Browns'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Cleveland Browns vs Los Angeles Chargers in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New England Patriots'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for New England Patriots vs Detroit Lions in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'New York Jets'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for New York Jets vs Miami Dolphins in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Washington Commanders'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Washington Commanders vs Tennessee Titans in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Atlanta Falcons in the database
+10-09 17:12:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Jacksonville Jaguars'"
+}
+
+10-09 17:12:01: - Logging - 
+Unable to locate matchup / ID for Jacksonville Jaguars vs Houston Texans in the database
+10-16 17:44:01: - Logging - 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Atlanta Falcons'"
+}
+
+10-16 17:44:01: - Logging - 
+Unable to locate matchup / ID for Atlanta Falcons vs San Francisco 49ers in the database
+10-21 01:33:01: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'undefined'"
+}
+
+--------    --------
+10-21 01:33:01: --------    -------- 
+Unable to locate matchup / ID for undefined vs undefined in the database
+--------    --------
+10-23 23:30:03: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Miami Dolphins'"
+}
+
+--------    --------
+10-23 23:30:03: --------    -------- 
+Unable to locate matchup / ID for Miami Dolphins vs Pittsburgh Steelers in the database
+--------    --------
+10-23 23:30:03: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Miami Dolphins'"
+}
+
+--------    --------
+10-23 23:30:03: --------    -------- 
+Unable to locate matchup / ID for Miami Dolphins vs Pittsburgh Steelers in the database
+--------    --------
+10-23 23:30:03: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Miami Dolphins'"
+}
+
+--------    --------
+10-23 23:30:03: --------    -------- 
+Unable to locate matchup / ID for Miami Dolphins vs Pittsburgh Steelers in the database
+--------    --------
+10-24 09:28:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 09:28:01: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Indiana Pacers'"
+}
+
+--------    --------
+10-24 09:28:01: --------    -------- 
+Unable to locate matchup / ID for Indiana Pacers vs Detroit Pistons in the database
+--------    --------
+10-24 09:28:01: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Orlando Magic'"
+}
+
+--------    --------
+10-24 09:28:01: --------    -------- 
+Unable to locate matchup / ID for Orlando Magic vs Boston Celtics in the database
+--------    --------
+10-24 09:29:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 09:29:01: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Indiana Pacers'"
+}
+
+--------    --------
+10-24 09:29:01: --------    -------- 
+Unable to locate matchup / ID for Indiana Pacers vs Detroit Pistons in the database
+--------    --------
+10-24 09:29:01: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Orlando Magic'"
+}
+
+--------    --------
+10-24 09:29:01: --------    -------- 
+Unable to locate matchup / ID for Orlando Magic vs Boston Celtics in the database
+--------    --------
+10-24 09:30:03: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 09:30:03: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Indiana Pacers'"
+}
+
+--------    --------
+10-24 09:30:03: --------    -------- 
+Unable to locate matchup / ID for Indiana Pacers vs Detroit Pistons in the database
+--------    --------
+10-24 09:30:03: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM "NBAactivematchups" WHERE teamone = 'Orlando Magic'"
+}
+
+--------    --------
+10-24 09:30:03: --------    -------- 
+Unable to locate matchup / ID for Orlando Magic vs Boston Celtics in the database
+--------    --------
+10-24 14:37:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:38:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:39:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:44:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:45:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:46:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:47:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:48:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:49:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:50:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:51:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:52:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:53:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:54:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:55:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:56:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:57:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:58:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 14:59:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:00:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:01:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:02:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:03:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:04:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:05:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:06:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:07:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:08:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:09:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:10:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:11:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:12:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:13:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:14:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:15:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:16:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:17:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:18:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:19:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:20:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:21:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:22:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:23:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:24:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:25:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:26:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:27:01: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:28:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:29:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:30:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:31:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 15:32:00: --------    -------- 
+== Error: ==
+false
+
+--------    --------
+10-24 17:46:02: --------    -------- 
+== Error: ==
+QueryResultError {
+    code: queryResultErrorCode.noData
+    message: "No data returned from the query."
+    received: 0
+    query: "SELECT * FROM activematchups WHERE teamone = 'Tampa Bay Buccaneers'"
+}
+
+--------    --------
+10-24 17:46:02: --------    -------- 
+Unable to locate matchup / ID for Tampa Bay Buccaneers vs Baltimore Ravens in the database
+--------    --------
